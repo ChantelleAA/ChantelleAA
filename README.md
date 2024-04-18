@@ -14,7 +14,7 @@ src="https://github.com/ChantelleAA/ChantelleAA/blob/main/94528-programmer.gif" 
   - **Environmental Sustainability**: Exploring the intersection of technology and ecology
   - **Explainable AI (XAI)**: Advocating for transparency and understanding in AI systems
   - **Open Source**: Contributing to and learning from the community
-- 📫 Connect with me on LinkedIn | Gmail
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/chantelleaa/) | [Gmail](chantelle.amoako-atta@aims.ac.rw)
 - 😄 Pronouns: **She/Her**
 
 
