@@ -3,7 +3,7 @@
 src="https://github.com/ChantelleAA/ChantelleAA/blob/main/94528-programmer.gif" />
 
 
-- 📊 **Data Enthusiast** passionate about **Artificial Intelligence, Machine Learning, and Data Science**
+- 📊 **Data Enthusiast** passionate about **Artificial Intelligence, Machine Learning, and XAI**
 - 🌟 Driven to create change with data and technology
 - 💼 Key projects and research:
   - **Machine Learning**: Classifying cardiac arrhythmia
