@@ -10,7 +10,7 @@ src="https://github.com/ChantelleAA/ChantelleAA/blob/main/94528-programmer.gif" 
   - **Data Analysis**: Extracting insights for British Airways
   - **Pattern Recognition**: Leveraging Python and MATLAB
   - **Reinforcement Learning for Modern Games**: Oware Nam-Nam
-- 🔭 Expanding my horizons with the latest in tech
+- 🔭 Expanding my horizons with the latest developments in tech
 - 🌱 Interests:
   - **Environmental Sustainability**: Exploring the intersection of technology and ecology
   - **Explainable AI (XAI)**: Advocating for transparency and understanding in AI systems
