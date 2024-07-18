@@ -12,8 +12,8 @@ src="https://github.com/ChantelleAA/ChantelleAA/blob/main/94528-programmer.gif" 
   - **Reinforcement Learning for Modern Games**: Oware Nam-Nam
 - 🔭 Expanding my horizons with the latest developments in tech
 - 🌱 Interests:
-  - **Environmental Sustainability**: Exploring the intersection of technology and ecology
   - **Explainable AI (XAI)**: Advocating for transparency and understanding in AI systems
+  - **AI in Health and Education**
   - **Open Source**: Contributing to and learning from the community
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/chantelleaa/) | [Gmail](chantelle.amoako-atta@aims.ac.rw)
 - 😄 Pronouns: **She/Her**
