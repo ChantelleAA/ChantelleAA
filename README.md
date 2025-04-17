@@ -3,12 +3,12 @@
 src="https://github.com/ChantelleAA/ChantelleAA/blob/main/94528-programmer.gif" />
 
 
-# 👋 Hi, I’m @ChantelleAA
+# 👋 Hi, I’m Chantelle
 
 - 👩🏾 I’m a Machine Learning Engineer and researcher passionate about AI for healthcare, NLP, and computational mathematics.
 - 👀 I’m interested in building responsible AI systems for real-world impact, especially in under-resourced regions.
 - 💞️ I’m looking to collaborate on projects in medical imaging, sentiment analysis, educational AI, and sector classification.
-- 📫 Reach me via: [chantelle.amoako-atta@aims.ac.rw](mailto:chantelle.amoako-atta@aims.ac.rw) | [Website](https://chantelleaa.github.io) | [LinkedIn](https://linkedin.com/in/chantelleaa)
+- 📫 Reach me via: [chantelatta@gmail.com](mailto:chantelatta@gmail.com) | [Website](https://chantelleaa.github.io) | [LinkedIn](https://linkedin.com/in/chantelleaa)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I’ve led student coding clubs, mentored aspiring data scientists, and once built a reinforcement learning agent to play the Oware game!
 
