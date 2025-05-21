@@ -39,6 +39,8 @@ This Django app matches clients to mediators based on skill and availability, st
 
 - 🎓 Led a year-long **coding club at AIMS Ghana**, teaching Python and R to master's students—many now build data science and ML projects from scratch.
 - 📘 Teach professional students at **Adaire Academy**, helping them earn an EPFL Extension School diploma in **Data Science & Machine Learning**.
+- 🧕🏾 Taught Python and Intro to AI at the **AIMS Girls in Mathematical Sciences Program (GMSP)** residential workshop, supporting high-achieving high school grads transitioning into STEM fields.
+- 🎓 Currently mentoring individuals through a **34-week one-on-one AI course**, taking learners from beginner to advanced levels across core topics like Python, ML, and real-world applications.
 - 🪄 Passionate about breaking down complex concepts for learners transitioning from non-traditional backgrounds.
 
 ---
