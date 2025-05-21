@@ -1,6 +1,6 @@
 ### Hello World! 👋
 <img width="25%" align="right" alt="Github"
-src="https://github.com/ChantelleAA/ChantelleAA/blob/main/UvvzOXEf4C.gif" />
+src="https://lottie.host/64e0442d-997f-4bb3-8cd3-bdbfb98ca459/YPzeW8osic.lottie" />
 
 
 # 👋 Hi, I’m Chantelle
