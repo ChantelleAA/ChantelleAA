@@ -19,7 +19,7 @@ A **Machine Learning Engineer** and **educator** blending AI, mathematics, and h
 ## 🌟 Featured Projects
 
 ### 🧮 Playing Oware Nam-nam with Reinforcement Learning  
-<img src="https://github.com/ChantelleAA/Reinforcement_Learning_Oware/blob/main/assets/oware_demo.gif" width="80%" alt="Oware RL demo placeholder" />
+<img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/oware_demo1.gif" width="80%" alt="Oware RL demo placeholder" />
 
 I developed a full Python environment for the traditional Oware game and trained agents like **DQN**, **DDQN**, **A3C**, and **AlphaZero**. Features include human-vs-agent play, agent-vs-agent testing, and reward tracking visualizations.  
 [🔗 GitHub Repo](https://github.com/ChantelleAA/Reinforcement_Learning_Oware)  
