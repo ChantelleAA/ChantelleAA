@@ -84,6 +84,7 @@ Here are some things I’ve been writing and teaching lately:
 ![Gym](https://img.shields.io/badge/OpenAI%20Gym-0081A7?style=for-the-badge&logo=openai&logoColor=white)
 ![Transformers](https://img.shields.io/badge/HuggingFace%20Transformers-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 ![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+
 ![NLTK](https://img.shields.io/badge/NLTK-1A237E?style=for-the-badge&logo=nltk&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
