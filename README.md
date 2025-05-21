@@ -58,11 +58,11 @@ This Django app matches clients to mediators based on skill and availability, st
 
 Here are some things I’ve been writing and teaching lately:
 
-- 📘 [**Intro to Python – Part 1:** Build a Temperature Converter](https://chantelleaa.github.io/posts/python-intro-1)  
-- 🧮 [**Intro to Python – Part 2:** Make a Simple Calculator](https://chantelleaa.github.io/posts/python-intro-2)  
-- 🌐 [**Gradio Part 1:** Build ML Interfaces](https://chantelleaa.github.io/posts/gradio-part-1)  
-- 🧠 [**Gradio Part 2:** Personality Prediction with Text](https://chantelleaa.github.io/posts/gradio-part-2)  
-- 🔍 [**3 Ways I Scrape the Web (and When to Use Each)**](https://chantelleaa.github.io/posts/web-scraping-tools)
+- 📘 [**Intro to Python – Part 1:** Build a Temperature Converter](https://chantelleaa.github.io/archivers/introduction-to-python-in-6-lessons-part-1)  
+- 🧮 [**Intro to Python – Part 2:** Make a Simple Calculator](https://chantelleaa.github.io/archivers/introduction-to-python-in-6-lessons-part-1)
+- 🌐 [**Gradio Part 1:** Build ML Interfaces](https://chantelleaa.github.io/archivers/intro-to-gradio-part-1)  
+- 🧠 [**Gradio Part 2:** Personality Prediction with Text](https://chantelleaa.github.io/archivers/intro-to-gradio-part-2)
+- 🔍 [**3 Ways I Scrape the Web (and When to Use Each)**](https://chantelleaa.github.io/archivers/intro-to-web-scraping)
 
 > 📚 *Read more at [chantelleaa.github.io](https://chantelleaa.github.io)*
 
