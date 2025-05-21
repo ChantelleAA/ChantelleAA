@@ -27,7 +27,7 @@ I developed a full Python environment for the traditional Oware game and trained
 
 
 ### 🧑🏾‍⚖️ Mediation Case Matching & Scheduling System  
-<img src="https://github.com/ChantelleAA/Matching_and_Scheduling_System/blob/main/assets/mediator_demo.gif" width="80%" alt="Mediation system demo placeholder" />
+<img src="https://github.com/ChantelleAA/def.gif" width="80%" alt="Mediation system solution slides" />
 
 This Django app matches clients to mediators based on skill and availability, streamlining conflict resolution services. Designed for real-world adoption by mediation centers.  
 [🔗 GitHub Repo](https://github.com/ChantelleAA/Matching_and_Scheduling_System)  
