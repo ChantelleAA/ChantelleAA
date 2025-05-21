@@ -1,6 +1,6 @@
 ### Hello World! 👋
 <img width="25%" align="right" alt="Github"
-src="https://github.com/ChantelleAA/ChantelleAA/blob/main/94528-programmer.gif" />
+src="https://github.com/ChantelleAA/ChantelleAA/blob/main/UvvzOXEf4C.gif" />
 
 
 # 👋 Hi, I’m Chantelle
