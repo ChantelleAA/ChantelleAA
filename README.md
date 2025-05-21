@@ -1,6 +1,14 @@
 ### Hello World! 👋
-<img width="25%" align="right" alt="Github"
-src="https://lottie.host/64e0442d-997f-4bb3-8cd3-bdbfb98ca459/YPzeW8osic.lottie" />
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+
+<lottie-player 
+  src="https://lottie.host/64e0442d-997f-4bb3-8cd3-bdbfb98ca459/YPzeW8osic.lottie"  
+  background="transparent"  
+  speed="1"  
+  style="width: 25%; float: right;"  
+  loop  
+  autoplay>
+</lottie-player>
 
 
 # 👋 Hi, I’m Chantelle
