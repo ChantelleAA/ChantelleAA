@@ -1,7 +1,7 @@
 <img width="25%" align="right" alt="Chantelle working"
 src="https://github.com/ChantelleAA/ChantelleAA/blob/main/94528-programmer.gif" />
 
-##### 👋🏾 Hey there, thanks for stopping by...I’m Chantelle
+### 👋🏾 Hey there, thanks for stopping by...I’m Chantelle
 
 A **Machine Learning Engineer** and **educator** blending AI, mathematics, and human connection.
 
@@ -12,7 +12,7 @@ A **Machine Learning Engineer** and **educator** blending AI, mathematics, and h
 - 😄 Pronouns: She/Her
 - 📫 Reach me: [chantelatta@gmail.com](mailto:chantelatta@gmail.com) | [Website](https://chantelleaa.github.io) | [LinkedIn](https://linkedin.com/in/chantelleaa)
 
-> *When I’m not coding or teaching, you might find me on a quiet nature trail—or playing a strategic round of Oware.*
+> *When I’m not coding or teaching, you might find me on a quiet nature trail at the gym...or playing a strategic round of Oware.*
 
 ---
 
