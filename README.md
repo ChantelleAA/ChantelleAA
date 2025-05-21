@@ -1,7 +1,8 @@
 <img width="25%" align="right" alt="Chantelle working"
 src="https://github.com/ChantelleAA/ChantelleAA/blob/main/94528-programmer.gif" />
 
-### Hey there, I’m Chantelle <img src="https://github.com/user-attachments/assets/cc852c0b-a2d7-4bc3-839f-c13d32636fe2" width="25" alt="MuaKissGIF" />
+### Hey there, I’m Chantelle ![HiBooGIF](https://github.com/user-attachments/assets/b25ff01b-d5bb-4523-abb2-d85fd419fe0c)
+
 
 
 A **Machine Learning Engineer** and **educator** blending AI, mathematics, and human connection.
