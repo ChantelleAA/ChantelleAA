@@ -25,7 +25,6 @@ I developed a full Python environment for the traditional Oware game and trained
 [🔗 GitHub Repo](https://github.com/ChantelleAA/Reinforcement_Learning_Oware)  
 **Stack:** Python, NumPy, TensorFlow, Stable-Baselines, Tkinter
 
----
 
 ### 🧑🏾‍⚖️ Mediation Case Matching & Scheduling System  
 <img src="https://github.com/ChantelleAA/Matching_and_Scheduling_System/blob/main/assets/mediator_demo.gif" width="80%" alt="Mediation system demo placeholder" />
