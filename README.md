@@ -5,25 +5,31 @@ src="https://github.com/ChantelleAA/ChantelleAA/blob/main/94528-programmer.gif" 
 
 A **Machine Learning Engineer** and **educator** blending AI, mathematics, and human connection.
 
-- 🧠 My work explores how data and AI can solve real-world problems in several fields of industry.
-- 🌍 I’ve built models for **brain tumor segmentation**, **arrhythmia classification**, **energy forecasting**, and **EEG/MEG-based mental state classification**, to mention a few.
+- 🧠 I explore how data and AI can solve real-world problems across diverse industries.
+- 🌍 I’ve built models for **brain tumor segmentation**, **arrhythmia classification**, **energy forecasting**, and **EEG/MEG-based mental state classification** — to mention a few.
 - 👩🏾‍🏫 I teach master's students at **AIMS Ghana** and professional students at **Adaire Academy** (EPFL diploma program).
 - 🎓 My roots are in **mathematical sciences** and **data-centric engineering**.
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her  
 - 📫 Reach me: [chantelatta@gmail.com](mailto:chantelatta@gmail.com) | [Website](https://chantelleaa.github.io) | [LinkedIn](https://linkedin.com/in/chantelleaa)
 
-> *When I’m not coding or teaching, you might find me on a quiet nature trail at the gym...or playing a strategic round of Oware.*
+> *When I’m not coding or teaching, you might find me on a quiet nature trail, at the gym, or playing a strategic round of Oware.*
 
 ---
 
 ## 🌟 Featured Projects
 
-🧮 **Playing Oware Nam-nam with Reinforcement Learning**  
+### 🧮 Playing Oware Nam-nam with Reinforcement Learning  
+<img src="https://github.com/ChantelleAA/Reinforcement_Learning_Oware/blob/main/assets/oware_demo.gif" width="80%" alt="Oware RL demo placeholder" />
+
 I developed a full Python environment for the traditional Oware game and trained agents like **DQN**, **DDQN**, **A3C**, and **AlphaZero**. Features include human-vs-agent play, agent-vs-agent testing, and reward tracking visualizations.  
 [🔗 GitHub Repo](https://github.com/ChantelleAA/Reinforcement_Learning_Oware)  
 **Stack:** Python, NumPy, TensorFlow, Stable-Baselines, Tkinter
 
-🧑🏾‍⚖️ **Mediation Case Matching & Scheduling System**  
+---
+
+### 🧑🏾‍⚖️ Mediation Case Matching & Scheduling System  
+<img src="https://github.com/ChantelleAA/Matching_and_Scheduling_System/blob/main/assets/mediator_demo.gif" width="80%" alt="Mediation system demo placeholder" />
+
 This Django app matches clients to mediators based on skill and availability, streamlining conflict resolution services. Designed for real-world adoption by mediation centers.  
 [🔗 GitHub Repo](https://github.com/ChantelleAA/Matching_and_Scheduling_System)  
 **Stack:** Django, Python, SQLite
@@ -38,9 +44,30 @@ This Django app matches clients to mediators based on skill and availability, st
 
 ---
 
-## 💻 Tech Stack
+## 🧠 What I’m Exploring Now
 
-# 💻 Tech Stack:
+- 🧬 **Quantum machine learning** for EEG/MEG signal classification  
+- 💬 **Multilingual object detection and translation** using Gradio, Whisper, and NLLB  
+- 🔍 **Sector classification APIs** using NLP, LangChain, and custom rule-based mapping  
+- 💻 **Visual App Builder** for giving lay people the ability to create apps easily using user friendly interface (kind of like Canva)
+
+---
+
+## ✍️ Blog Highlights
+
+Here are some things I’ve been writing and teaching lately:
+
+- 📘 [**Intro to Python – Part 1:** Build a Temperature Converter](https://chantelleaa.github.io/posts/python-intro-1)  
+- 🧮 [**Intro to Python – Part 2:** Make a Simple Calculator](https://chantelleaa.github.io/posts/python-intro-2)  
+- 🌐 [**Gradio Part 1:** Build ML Interfaces](https://chantelleaa.github.io/posts/gradio-part-1)  
+- 🧠 [**Gradio Part 2:** Personality Prediction with Text](https://chantelleaa.github.io/posts/gradio-part-2)  
+- 🔍 [**3 Ways I Scrape the Web (and When to Use Each)**](https://chantelleaa.github.io/posts/web-scraping-tools)
+
+> 📚 *Read more at [chantelleaa.github.io](https://chantelleaa.github.io)*
+
+---
+
+## 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -76,15 +103,6 @@ This Django app matches clients to mediators based on skill and availability, st
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 🧠 What I’m Exploring Now
-
-- 🧬 **Quantum machine learning** for EEG/MEG signal classification
-- 💬 **Multilingual object detection and translation** using Gradio, Whisper, and NLLB
-- 🔍 **Sector classification APIs** using NLP, LangChain, and custom rule-based mapping
-- 💻 **Visual App Builder** for giving lay people the ability to create apps easily using user friendly interface (kind of like canva)
 
 ---
 
