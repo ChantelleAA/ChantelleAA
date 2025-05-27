@@ -19,7 +19,7 @@ A **Machine Learning Engineer** and **educator** blending AI, mathematics, and h
 
 ## 🌟 Featured Projects
 
-### 🧠 NileEdge AI Assistant
+### 🤖 NileEdge AI Assistant
 <img width="80%" align="center" alt="NileEdge AI Chatbot demo"
 src="https://github.com/ChantelleAA/ChantelleAA/blob/main/nileedgechatbot.gif" />
 
