@@ -21,7 +21,7 @@ A **Machine Learning Engineer** and **educator** blending AI, mathematics, and h
 
 ### 🧠 NileEdge AI Assistant
 <img width="80%" align="center" alt="NileEdge AI Chatbot demo"
-src="https://github.com/ChantelleAA/response_aigent/blob/main/nileedgechatbot.gif" />
+src="https://github.com/ChantelleAA/ChantelleAA/blob/main/nileedgechatbot.gif" />
 
 A context-aware chatbot designed for **NileEdge Innovations**, combining semantic FAQ matching, vector-based document retrieval, local LLM inference, and audio transcription via Whisper.
 
