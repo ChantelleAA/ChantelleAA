@@ -19,6 +19,23 @@ A **Machine Learning Engineer** and **educator** blending AI, mathematics, and h
 
 ## 🌟 Featured Projects
 
+### 🧠 NileEdge AI Assistant
+<img width="80%" align="center" alt="NileEdge AI Chatbot demo"
+src="https://github.com/ChantelleAA/response_aigent/blob/main/nileedgechatbot.gif" />
+
+A context-aware chatbot designed for **NileEdge Innovations**, combining semantic FAQ matching, vector-based document retrieval, local LLM inference, and audio transcription via Whisper.
+
+- Local privacy-focused chatbot, runs entirely on your machine  
+- Automatically finds relevant answers or uses an LLM when needed  
+- Custom HTML/CSS interface styled to match NileEdge branding  
+- Includes real voice recording and transcription from the browser  
+- Logs unknown questions for FAQ expansion
+
+[🔗 GitHub Repo](https://github.com/ChantelleAA/response_aigent)  
+**Stack:** Python, Flask, SentenceTransformers, ChromaDB, Whisper, HTML/CSS/JS
+
+---
+
 ### 🧮 Playing Oware Nam-nam with Reinforcement Learning  
 <img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/oware_demo1.gif" width="80%" alt="Oware RL demo placeholder" />
 
