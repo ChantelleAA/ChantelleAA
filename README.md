@@ -7,7 +7,7 @@ src="https://github.com/ChantelleAA/ChantelleAA/blob/main/94528-programmer.gif" 
 A **Machine Learning Engineer** and **educator** blending AI, mathematics, and human connection.
 
 - 🧠 I explore how data and AI can solve real-world problems across diverse industries.
-- 🌍 I’ve built models for **brain tumor segmentation**, **arrhythmia classification**, **energy forecasting**, and **EEG/MEG-based mental state classification** — to mention a few.
+- 🌍 I’ve built models for **brain tumor segmentation**, **arrhythmia classification**, **energy forecasting**, and **EEG/MEG-based mental state classification**, to mention a few.
 - 👩🏾‍🏫 I teach master's students at **AIMS Ghana** and professional students at **Adaire Academy** (EPFL diploma program).
 - 🎓 My roots are in **mathematical sciences** and **data-centric engineering**.
 - 😄 Pronouns: She/Her  
@@ -55,7 +55,7 @@ This Django app matches clients to mediators based on skill and availability, st
 
 ## 📚 My Teaching & Mentorship Work
 
-- 🎓 Led a year-long **coding club at AIMS Ghana**, teaching Python and R to master's students—many now build data science and ML projects from scratch.
+- 🎓 Led a year-long **coding club at AIMS Ghana**, teaching Python and R to master's students: many now build data science and ML projects from scratch.
 - 📘 Teach professional students at **Adaire Academy**, helping them earn an EPFL Extension School diploma in **Data Science & Machine Learning**.
 - 🧕🏾 Taught Python and Intro to AI at the **AIMS Girls in Mathematical Sciences Program (GMSP)** residential workshop, supporting high-achieving high school grads transitioning into STEM fields.
 - 🎓 Currently mentoring individuals through a **34-week one-on-one AI course**, taking learners from beginner to advanced levels across core topics like Python, ML, and real-world applications.
