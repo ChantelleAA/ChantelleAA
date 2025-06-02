@@ -174,7 +174,7 @@ Here are some things I’ve been writing and teaching lately:
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChantelleAA&theme=dark&hide_border=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChantelleAA&theme=dark&hide_border=true&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChantelleAA&theme=dark&hide_border=true&layout=donut" />
     </td>
   </tr>
   <tr>
@@ -186,11 +186,6 @@ Here are some things I’ve been writing and teaching lately:
     </td>
   </tr>
 </table>
-
-
----
-
-![](https://visitcount.itsvg.in/api?id=ChantelleAA&icon=0&color=4)(https://visitcount.itsvg.in)
 
 ---
 
