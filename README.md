@@ -11,7 +11,7 @@ A **Machine Learning Engineer** and **educator** blending AI, mathematics, and h
 - 👩🏾‍🏫 I teach master's students at **AIMS Ghana** and professional students at **Adaire Academy** (EPFL diploma program).
 - 🎓 My roots are in **mathematical sciences** and **data-centric engineering**.
 - 😄 Pronouns: She/Her  
-- 📫 Reach me: <p>
+- 📫 Reach me:
   <a href="https://linkedin.com/in/chantelleaa" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
   </a>
@@ -21,7 +21,7 @@ A **Machine Learning Engineer** and **educator** blending AI, mathematics, and h
   <a href="https://chantelleaa.github.io" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white">
   </a>
-</p>
+
 
 <!-- [chantelatta@gmail.com](mailto:chantelatta@gmail.com) | [Website](https://chantelleaa.github.io) | [LinkedIn](https://linkedin.com/in/chantelleaa) -->
 
