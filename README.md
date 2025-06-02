@@ -168,24 +168,25 @@ Here are some things I’ve been writing and teaching lately:
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ChantelleAA&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ChantelleAA&show_icons=true&theme=darkorange&hide_border=true&include_all_commits=true&count_private=true" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChantelleAA&theme=merko&hide_border=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChantelleAA&theme=darkorange&hide_border=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChantelleAA&theme=merko&hide_border=true&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChantelleAA&theme=darkorange&hide_border=true&layout=compact" />
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChantelleAA&theme=merko" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChantelleAA&theme=darkorange" />
     </td>
     <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=ChantelleAA&theme=merko&margin-w=10&row=2&column=3" />
+      <img src="https://github-profile-trophy.vercel.app/?username=ChantelleAA&theme=darkorange&margin-w=10&row=2&column=3" />
     </td>
   </tr>
 </table>
+
 
 ---
 
