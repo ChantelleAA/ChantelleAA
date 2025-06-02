@@ -160,9 +160,9 @@ Here are some things I’ve been writing and teaching lately:
 ![](https://github-readme-stats.vercel.app/api?username=ChantelleAA&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ChantelleAA&theme=dark&hide_border=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChantelleAA&theme=dark&hide_border=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=ChantelleAA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChantelleAA&theme=tokyonight)
-![https://github-profile-trophy.vercel.app/?username=ChantelleAA&theme=tokyonight&margin-w=10&row=2&column=3]
+![](https://github-readme-stats.vercel.app/api?username=ChantelleAA&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChantelleAA&theme=dark)
+![](https://github-profile-trophy.vercel.app/?username=ChantelleAA&theme=dark&margin-w=10&row=2&column=3)
 ---
 
 [![](https://visitcount.itsvg.in/api?id=ChantelleAA&icon=0&color=4)](https://visitcount.itsvg.in)
