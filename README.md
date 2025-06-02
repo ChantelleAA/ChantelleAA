@@ -157,12 +157,14 @@ Here are some things I’ve been writing and teaching lately:
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ChantelleAA&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=ChantelleAA&theme=dark&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChantelleAA&theme=dark&hide_border=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=ChantelleAA&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChantelleAA&theme=dark)
-![](https://github-profile-trophy.vercel.app/?username=ChantelleAA&theme=dark&margin-w=10&row=2&column=3)
+![](https://github-readme-stats.vercel.app/api?username=ChantelleAA&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=ChantelleAA&theme=merko&hide_border=true) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChantelleAA&theme=merko&hide_border=true&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChantelleAA&theme=merko)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ChantelleAA&theme=tokyonight&margin-w=10&row=2&column=3" />
+</p>
+<!-- ![](https://github-profile-trophy.vercel.app/?username=ChantelleAA&theme=merko&margin-w=10&row=2&column=3) -->
 ---
 
 [![](https://visitcount.itsvg.in/api?id=ChantelleAA&icon=0&color=4)](https://visitcount.itsvg.in)
