@@ -19,7 +19,7 @@ A **Machine Learning Engineer** and **educator** blending AI, mathematics, and h
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
   </a>
   <a href="https://chantelleaa.github.io" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white">
+    <img alt="Website" src="https://img.shields.io/badge/Blog-000000?style=flat&logo=github&logoColor=white">
   </a>
 
 
