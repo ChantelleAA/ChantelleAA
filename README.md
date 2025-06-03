@@ -45,6 +45,8 @@ A Django web application to help teachers find and use curriculum-aligned Teachi
 [🔗 GitHub Repo](https://github.com/ChantelleAA/tlr_app)  
 **Stack:** Django, HTMX, PostgreSQL, Bootstrap, Gunicorn
 
+---
+
 ### 🤖 NileEdge AI Assistant
 <img width="80%" align="center" alt="NileEdge AI Chatbot demo"
 src="https://github.com/ChantelleAA/ChantelleAA/blob/main/nileedgechatbot.gif" />
@@ -69,6 +71,7 @@ I developed a full Python environment for the traditional Oware game and trained
 [🔗 GitHub Repo](https://github.com/ChantelleAA/Reinforcement_Learning_Oware)  
 **Stack:** Python, NumPy, TensorFlow, Stable-Baselines, Tkinter
 
+---
 
 ### 🧑🏾‍⚖️ Mediation Case Matching & Scheduling System  
 <img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/def.gif" width="80%" alt="Mediation system solution slides" />
