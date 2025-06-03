@@ -31,6 +31,20 @@ A **Machine Learning Engineer** and **educator** blending AI, mathematics, and h
 
 ## 🌟 Featured Projects
 
+### 📘 TLR Helper – Teaching and Learning Resource Assistant  
+<img src="https://github.com/ChantelleAA/tlr_app/blob/clearer_searches/tlr_helper.gif" width="80%" alt="TLR Helper search demo" />
+
+A Django web application to help teachers find and use curriculum-aligned Teaching and Learning Resources (TLRs) for the Ghana Standards-Based Curriculum. Includes advanced filtering, downloadable PDFs, and support for special education needs.
+
+- Class-to-strand smart filtering using HTMX  
+- Curriculum preloaded from Ghana’s official SBC documents  
+- Supports different learning styles and special needs  
+- Offline-accessible TLR downloads in PDF format  
+- Built for AIMS and TEDD Ghana's education workshops  
+
+[🔗 GitHub Repo](https://github.com/ChantelleAA/tlr_app)  
+**Stack:** Django, HTMX, PostgreSQL, Bootstrap, Gunicorn
+
 ### 🤖 NileEdge AI Assistant
 <img width="80%" align="center" alt="NileEdge AI Chatbot demo"
 src="https://github.com/ChantelleAA/ChantelleAA/blob/main/nileedgechatbot.gif" />
