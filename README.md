@@ -23,7 +23,7 @@ A **Machine Learning Engineer** and **educator** blending AI, mathematics, and h
   </a>
 
 
-<!-- [chantelatta@gmail.com](mailto:chantelatta@gmail.com) | [Website](https://chantelleaa.github.io) | [LinkedIn](https://linkedin.com/in/chantelleaa) -->
+<!--          [chantelatta@gmail.com](mailto:chantelatta@gmail.com) | [Website](https://chantelleaa.github.io) | [LinkedIn](https://linkedin.com/in/chantelleaa) -->
 
 > *When I’m not coding or teaching, you might find me on a quiet nature trail, at the gym, or playing a strategic round of Oware.*
 
