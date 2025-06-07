@@ -32,7 +32,7 @@ A **Machine Learning Engineer** and **educator** blending AI, mathematics, and h
 ## 🌟 Featured Projects
 
 ### 📘 TLR Helper – Teaching and Learning Resource Assistant  
-<img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/tlr_helper%20(2).gif" width="80%" alt="TLR Helper search demo" />
+<img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/tlr_helper%20(2).gif" align="center" width="80%" alt="TLR Helper search demo" />
 
 A Django web application to help teachers find and use curriculum-aligned Teaching and Learning Resources (TLRs) for the Ghana Standards-Based Curriculum. Includes advanced filtering, downloadable PDFs, and support for special education needs.
 
@@ -65,7 +65,7 @@ A context-aware chatbot designed for **NileEdge Innovations**, combining semanti
 ---
 
 ### 🧮 Playing Oware Nam-nam with Reinforcement Learning  
-<img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/oware_demo1.gif" width="80%" alt="Oware RL demo placeholder" />
+<img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/oware_demo1.gif" align="center" width="80%" alt="Oware RL demo placeholder" />
 
 I developed a full Python environment for the traditional Oware game and trained agents like **DQN**, **DDQN**, **A3C**, and **AlphaZero**. Features include human-vs-agent play, agent-vs-agent testing, and reward tracking visualizations.  
 [🔗 GitHub Repo](https://github.com/ChantelleAA/Reinforcement_Learning_Oware)  
@@ -74,7 +74,7 @@ I developed a full Python environment for the traditional Oware game and trained
 ---
 
 ### 🧑🏾‍⚖️ Mediation Case Matching & Scheduling System  
-<img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/def.gif" width="80%" alt="Mediation system solution slides" />
+<img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/def.gif" align="center" width="80%" alt="Mediation system solution slides" />
 
 This Django app matches clients to mediators based on skill and availability, streamlining conflict resolution services. Designed for real-world adoption by mediation centers.  
 [🔗 GitHub Repo](https://github.com/ChantelleAA/Matching_and_Scheduling_System)  
@@ -88,7 +88,6 @@ This Django app matches clients to mediators based on skill and availability, st
 - 📘 Teach professional students at **Adaire Academy**, helping them earn an EPFL Extension School diploma in **Data Science & Machine Learning**.
 - 🧕🏾 Taught Python and Intro to AI at the **AIMS Girls in Mathematical Sciences Program (GMSP)** residential workshop, supporting high-achieving high school grads transitioning into STEM fields.
 - 🎓 Currently mentoring individuals through a **34-week one-on-one AI course**, taking learners from beginner to advanced levels across core topics like Python, ML, and real-world applications.
-- 🪄 Passionate about breaking down complex concepts for learners transitioning from non-traditional backgrounds.
 
 ---
 
@@ -97,7 +96,7 @@ This Django app matches clients to mediators based on skill and availability, st
 - 🧬 **Quantum machine learning** for EEG/MEG signal classification  
 - 💬 **Multilingual object detection and translation** using Gradio, Whisper, and NLLB  
 - 🔍 **Sector classification APIs** using NLP, LangChain, and custom rule-based mapping  
-- 💻 **Visual App Builder** for giving lay people the ability to create apps easily using user friendly interface (kind of like Canva)
+- 💻 **Visual App Builder** for giving lay people the ability to create apps easily using user-friendly interface (kind of like Canva)
 
 ---
 
@@ -173,14 +172,6 @@ Here are some things I’ve been writing and teaching lately:
 ---
 
 ## 📊 GitHub Stats
-<!--
-![](https://github-readme-stats.vercel.app/api?username=ChantelleAA&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=ChantelleAA&theme=merko&hide_border=true) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChantelleAA&theme=merko&hide_border=true&layout=compact)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChantelleAA&theme=merko)
-![](https://github-profile-trophy.vercel.app/?username=ChantelleAA&theme=merko&margin-w=10&row=2&column=3) -->
-
-<!-- GitHub Dashboard Layout -->
 
 <table>
   <tr>
@@ -206,5 +197,5 @@ Here are some things I’ve been writing and teaching lately:
 
 ---
 
-⭐️ *Always learning, always building. Coding is a form of care.*  
+⭐️ *Always learning, always building.*  
 📍 Ghana | 🤝 Let’s build things that matter.
