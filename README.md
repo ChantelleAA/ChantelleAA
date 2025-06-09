@@ -32,7 +32,7 @@ A **PhD Researcher**,  **Machine Learning Engineer** and **Educator** blending A
 ## 🌟 Featured Projects
 
 ### 📘 TLR Helper – Teaching and Learning Resource Assistant  
-<img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/tlr_helper%20(2).gif" align="center" width="80%" alt="TLR Helper search demo" />
+<img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/tlr_helper_1.gif" align="center" width="80%" alt="TLR Helper search demo" />
 
 A Django web application to help teachers find and use curriculum-aligned Teaching and Learning Resources (TLRs) for the Ghana Standards-Based Curriculum. Includes advanced filtering, downloadable PDFs, and support for special education needs.
 
