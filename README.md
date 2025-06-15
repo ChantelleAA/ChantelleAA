@@ -2,10 +2,10 @@
 src="https://github.com/ChantelleAA/ChantelleAA/blob/main/94528-programmer.gif" />
 
 ### Hey there, I’m Chantelle
-
+     
 
 A **Machine Learning Engineer** and **Educator** blending AI, Mathematics, and Science.
-
+ded
 - 🧠 I explore how data and AI can solve real-world problems across diverse industries.
 - 🌍 I’ve built models for **brain tumor segmentation**, **arrhythmia classification**, **energy forecasting**, and **EEG/MEG-based mental state classification**, to mention a few.
 - 👩🏾‍🏫 I teach master's students at **AIMS Ghana** and professional students at **Adaire Academy** (EPFL diploma program).
