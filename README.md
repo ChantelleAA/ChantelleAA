@@ -6,12 +6,12 @@ src="https://github.com/ChantelleAA/ChantelleAA/blob/main/94528-programmer.gif" 
 
 A **Machine Learning Engineer** and **Educator** blending AI, Mathematics, and Science.
 ded
-- 🧠 I explore how data and AI can solve real-world problems across diverse industries.
-- 🌍 I’ve built models for **brain tumor segmentation**, **arrhythmia classification**, **energy forecasting**, and **EEG/MEG-based mental state classification**, to mention a few.
-- 👩🏾‍🏫 I teach master's students at **AIMS Ghana** and professional students at **Adaire Academy** (EPFL diploma program).
-- 🎓 My roots are in **mathematical sciences** and **data-centric engineering**.
-- 😄 Pronouns: She/Her  
-- 📫 Reach me:
+- I explore how data and AI can solve real-world problems across diverse industries.
+- I’ve built models for **brain tumor segmentation**, **arrhythmia classification**, **energy forecasting**, and **EEG/MEG-based mental state classification**, to mention a few.
+- I teach master's students at **AIMS Ghana** and professional students at **Adaire Academy** (EPFL diploma program).
+- My roots are in **mathematical sciences** and **data-centric engineering**.
+- Pronouns: She/Her  
+- Reach me:
   <a href="https://linkedin.com/in/chantelleaa" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
   </a>
@@ -29,7 +29,7 @@ ded
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 ### 📘 TLR Helper – Teaching and Learning Resource Assistant  
 <img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/tlr_helper_1.gif" align="center" width="80%" alt="TLR Helper search demo" />
@@ -82,7 +82,7 @@ This Django app matches clients to mediators based on skill and availability, st
 
 ---
 
-## 📚 My Teaching & Mentorship Work
+## My Teaching & Mentorship Work
 
 - 🎓 Led a year-long **coding club at AIMS Ghana**, teaching Python and R to master's students: many now build data science and ML projects from scratch.
 - 📘 Teach professional students at **Adaire Academy**, helping them earn an EPFL Extension School diploma in **Data Science & Machine Learning**.
@@ -91,7 +91,7 @@ This Django app matches clients to mediators based on skill and availability, st
 
 ---
 
-## 🧠 What I’m Exploring Now
+## What I’m Exploring Now
 
 - 🧬 **Quantum machine learning** for EEG/MEG signal classification  
 - 💬 **Multilingual object detection and translation** using Gradio, Whisper, and NLLB  
@@ -104,13 +104,13 @@ This Django app matches clients to mediators based on skill and availability, st
 
 Here are some things I’ve been writing and teaching lately:
 
-- 📘 [**Intro to Python – Part 1:** Build a Temperature Converter](https://chantelleaa.github.io/archivers/introduction-to-python-in-6-lessons-part-1)  
-- 🧮 [**Intro to Python – Part 2:** Make a Simple Calculator](https://chantelleaa.github.io/archivers/introduction-to-python-in-6-lessons-part-1)
-- 🌐 [**Gradio Part 1:** Build ML Interfaces](https://chantelleaa.github.io/archivers/intro-to-gradio-part-1)  
-- 🧠 [**Gradio Part 2:** Personality Prediction with Text](https://chantelleaa.github.io/archivers/intro-to-gradio-part-2)
-- 🔍 [**3 Ways I Scrape the Web (and When to Use Each)**](https://chantelleaa.github.io/archivers/intro-to-web-scraping)
+- [**Intro to Python – Part 1:** Build a Temperature Converter](https://chantelleaa.github.io/archivers/introduction-to-python-in-6-lessons-part-1)  
+- [**Intro to Python – Part 2:** Make a Simple Calculator](https://chantelleaa.github.io/archivers/introduction-to-python-in-6-lessons-part-1)
+- [**Gradio Part 1:** Build ML Interfaces](https://chantelleaa.github.io/archivers/intro-to-gradio-part-1)  
+- [**Gradio Part 2:** Personality Prediction with Text](https://chantelleaa.github.io/archivers/intro-to-gradio-part-2)
+- [**3 Ways I Scrape the Web (and When to Use Each)**](https://chantelleaa.github.io/archivers/intro-to-web-scraping)
 
-> 📚 *Read more at [chantelleaa.github.io](https://chantelleaa.github.io)*
+> *Read more at [chantelleaa.github.io](https://chantelleaa.github.io)*
 
 ---
 
@@ -194,8 +194,3 @@ Here are some things I’ve been writing and teaching lately:
     </td>
   </tr>
 </table>
-
----
-
-⭐️ *Always learning, always building.*  
-📍 Ghana | 🤝 Let’s build things that matter.
