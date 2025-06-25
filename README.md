@@ -4,22 +4,22 @@ src="https://github.com/ChantelleAA/ChantelleAA/blob/main/94528-programmer.gif" 
 ### Hey there, I’m Chantelle
      
 
-A **Machine Learning Engineer** and **Educator** blending AI, Mathematics, and Science.
-ded
-- I explore how data and AI can solve real-world problems across diverse industries.
-- I’ve built models for **brain tumor segmentation**, **arrhythmia classification**, **energy forecasting**, and **EEG/MEG-based mental state classification**, to mention a few.
-- I teach master's students at **AIMS Ghana** and professional students at **Adaire Academy** (EPFL diploma program).
-- My roots are in **mathematical sciences** and **data-centric engineering**.
+A **PhD Researcher**,  **Machine Learning Engineer** and **Educator** blending AI, Mathematics, and a love for teaching.
+
+- I explore how data and AI can solve real-world problems across diverse industries like Education, Business, and Finance.
+- I’ve built models for **brain tumor segmentation**, **arrhythmia classification**, **energy forecasting**, and **AI Agents**, to mention a few.
+- I teach master's students at **AIMS Ghana** (Mathematical Sciences) and professional students at **Adaire Academy** (EPFL diploma program).
+- My educational background is in the field of the **mathematical sciences**.
 - Pronouns: She/Her  
 - Reach me:
   <a href="https://linkedin.com/in/chantelleaa" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
   </a>
   <a href="chantelatta@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
   </a>
   <a href="https://chantelleaa.github.io" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/Blog-000000?style=flat&logo=github&logoColor=white">
+    <img alt="Website" src="https://img.shields.io/badge/Blog-000000?logo=github&logoColor=white">
   </a>
 
 
