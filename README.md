@@ -23,11 +23,29 @@ A **PhD Researcher**,  **Machine Learning Engineer** and **Educator** blending A
   </a>
 
 
-<!--          [chantelatta@gmail.com](mailto:chantelatta@gmail.com) | [Website](https://chantelleaa.github.io) | [LinkedIn](https://linkedin.com/in/chantelleaa) -->
 
 ---
 
 ## Featured Projects
+
+---
+
+### 🧑🏾‍⚖️ Quantathon Judging App
+
+<img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/judging_demo.gif" align="center" width="80%" alt="Quantathon Judging App demo" />
+
+A Django-based hackathon judging platform built for the **Quantathon**. Judges are assigned criteria based on expertise and can only submit scores once. Features include public voting, admin control, real-time result aggregation, and flexible criteria configuration.
+
+* One-time vote submission per judge
+* Criteria dynamically filtered by area of expertise
+* Public vote option with result averaging
+* Admin interface to generate and manage judging links
+* Final scores and rankings automatically computed and displayed
+
+[🔗 GitHub Repo](https://github.com/ChantelleAA/judging_criteria)
+**Stack:** Django, Bootstrap, PostgreSQL, HTMX, Railway
+
+---
 
 ### 📘 TLR Helper – Teaching and Learning Resource Assistant  
 <img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/tlr_helper_1.gif" align="center" width="80%" alt="TLR Helper search demo" />
