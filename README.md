@@ -32,7 +32,7 @@ A **PhD Researcher**,  **Machine Learning Engineer** and **Educator** blending A
 
 ### 🧑🏾‍⚖️ Quantathon Judging App
 
-<img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/tlr_helper1.gif" align="center" width="80%" alt="Quantathon Judging App demo" />
+<img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/judging_demo.gif" align="center" width="80%" alt="Quantathon Judging App demo" />
 
 A Django-based hackathon judging platform built for the **Quantathon**. Judges are assigned criteria based on expertise and can only submit scores once. Features include public voting, admin control, real-time result aggregation, and flexible criteria configuration.
 
