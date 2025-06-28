@@ -4,7 +4,7 @@ src="https://github.com/ChantelleAA/ChantelleAA/blob/main/94528-programmer.gif" 
 ### Hey there, I’m Chantelle
      
 A **PhD Researcher**,  **Machine Learning Engineer** and **Educator** blending AI, Mathematics, and a love for teaching.
-
+    
 - I explore how data and AI can solve real-world problems across diverse industries like Education, Business, and Finance.
 - I’ve built models for **brain tumor segmentation**, **arrhythmia classification**, **energy forecasting**, and **AI Agents**, to mention a few.
 - I teach master's students at **AIMS Ghana** (Mathematical Sciences) and professional students at **Adaire Academy** (EPFL diploma program).
