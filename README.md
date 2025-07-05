@@ -151,6 +151,7 @@ Here are some things I’ve been writing and teaching lately:
 ![GPT](https://img.shields.io/badge/GPT-6E40C9?style=for-the-badge&logo=openai&logoColor=white)
 ![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-1A237E?style=for-the-badge&logo=nltk&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-v2.6.3-blue)
 
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![CuPy](https://img.shields.io/badge/CuPy-002A3A?style=for-the-badge&logo=python&logoColor=white)
