@@ -2,7 +2,7 @@
 src="https://github.com/ChantelleAA/ChantelleAA/blob/main/94528-programmer.gif" />
 
 ### Hey there, I’m Chantelle 😄
-     
+         
 A **PhD Researcher**,  **Machine Learning Engineer** and **Educator** blending AI, Mathematics, and a love for teaching. 
     
 - I explore how data and AI can solve real-world problems across diverse industries like Education, Business, and Finance.
