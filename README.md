@@ -6,7 +6,7 @@ src="https://github.com/ChantelleAA/ChantelleAA/blob/main/94528-programmer.gif" 
 I’m a **Machine Learning Engineer, Educator, and PhD-bound Researcher** (AI for Decarbonisation, University College Dublin, 2025).  
 My work blends **AI, healthcare, education, and mathematics**, and I focus on building real-world systems that move from **research to production**.  
 
-I’ve developed AI solutions across **NLP, computer vision, and reinforcement learning**, and deployed full-stack applications that support communities — from **teachers in Ghanaian classrooms** to **judges in international hackathons**.  
+I’ve developed AI solutions across **NLP, computer vision, and reinforcement learning**, and deployed full-stack applications that support communities ranging from **teachers in Ghanaian classrooms** to **judges in international hackathons**.  
 
 I also teach MSc and professional students in Python, R, and Machine Learning, and mentor aspiring data scientists through long-term learning programs.  
 
