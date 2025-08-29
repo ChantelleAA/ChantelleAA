@@ -10,21 +10,20 @@ I’ve developed AI solutions across **NLP, computer vision, and reinforcement l
 
 I also teach MSc and professional students in Python, R, and Machine Learning, and mentor aspiring data scientists through long-term learning programs.  
 
-📬 **Find me online**:  
-
-<a href="https://linkedin.com/in/chantelleaa" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:chantelatta@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
-</a>
-<a href="https://chantelleaa.github.io" target="_blank">
-  <img alt="Website" src="https://img.shields.io/badge/Blog-000000?logo=github&logoColor=white">
-</a>
+📬 **Reach me**:
+  <a href="https://linkedin.com/in/chantelleaa" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
+  </a>
+  <a href="chantelatta@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
+  </a>
+  <a href="https://chantelleaa.github.io" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/Blog-000000?logo=github&logoColor=white">
+  </a>
 
 ---
 
-## 🚀 Projects I’m Proud Of  
+## Featured Projects  
 
 ### 🧑🏾‍⚖️ Quantathon Judging App  
 <img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/judging_demo.gif" align="center" width="80%" alt="Quantathon Judging App demo" />
