@@ -1,194 +1,143 @@
 <img width="25%" align="right" alt="Chantelle working"
 src="https://github.com/ChantelleAA/ChantelleAA/blob/main/94528-programmer.gif" />
 
-### Hey there, I’m Chantelle 😄
-         
-A **PhD Researcher**,  **Machine Learning Engineer** and **Educator** blending AI, Mathematics, and a love for teaching. 
-    
-- I explore how data and AI can solve real-world problems across diverse industries like Education, Business, and Finance.
-- I’ve built models for **brain tumor segmentation**, **arrhythmia classification**, **energy forecasting**, and **AI Agents**, to mention a few.
-- I teach master's students at **AIMS Ghana** (Mathematical Sciences) and professional students at **Adaire Academy** (EPFL diploma program).
-- My educational background is in the field of the **mathematical sciences**.
-- Pronouns: She/Her  
-- Reach me:
-  <a href="https://linkedin.com/in/chantelleaa" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
-  </a>
-  <a href="chantelatta@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
-  </a>
-  <a href="https://chantelleaa.github.io" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/Blog-000000?logo=github&logoColor=white">
-  </a>
+# Hi, I’m Chantelle Amoako-Atta 👋🏾
 
+I’m a **Machine Learning Engineer, Educator, and PhD-bound Researcher** (AI for Decarbonisation, University College Dublin, 2025).  
+I specialize in **AI for Healthcare, Education, and Business**, with strong foundations in **computational mathematics and applied ML**.  
 
+🌟 **Highlights for AI & Data Science Roles**  
+- **NLP & LLMs**: Fine-tuned transformers (BERT, GPT, Whisper), built semantic retrieval + local/private AI assistants.  
+- **Backend & APIs**: Deployed production-ready apps in **Django** and **Flask**, powering hackathons and education platforms.  
+- **Cloud & Deployment**: Hands-on with **Docker**, CI/CD (GitHub Actions), GPU computing (CUDA), and AWS training.  
+- **Data Management**: SQL/NoSQL databases, scraping pipelines, Spark (big data analytics coursework).  
+- **MLOps & Model Deployment**: Deployed ML apps with logging, monitoring, and interfaces (Gradio, HTMX).  
+- **Leadership**: Taught MSc & professionals in ML, led hackathon judging platform dev, and built collaborative education initiatives.  
+
+📬 **Connect With Me**:  
+[LinkedIn](https://linkedin.com/in/chantelleaa) • [Portfolio Website](https://chantelleaa.github.io) • [Email](mailto:chantelatta@gmail.com)  
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
----
-
-### 🧑🏾‍⚖️ Quantathon Judging App
-
+### 🧑🏾‍⚖️ Quantathon Judging App  
 <img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/judging_demo.gif" align="center" width="80%" alt="Quantathon Judging App demo" />
 
-A Django-based hackathon judging platform built for the **Quantathon**. Judges are assigned criteria based on expertise and can only submit scores once. Features include public voting, admin control, real-time result aggregation, and flexible criteria configuration.
+Django-based hackathon judging platform used in the **AIMS Quantathon 2024** with 50+ participants.  
+- Real-time leaderboard & analytics  
+- Judge criteria filtered by expertise  
+- Secure voting system + admin controls  
+- Final scores computed automatically  
 
-* One-time vote submission per judge
-* Criteria dynamically filtered by area of expertise
-* Public vote option with result averaging
-* Admin interface to generate and manage judging links
-* Final scores and rankings automatically computed and displayed
-
-[🔗 GitHub Repo](https://github.com/ChantelleAA/judging_criteria)
-**Stack:** Django, Bootstrap, PostgreSQL, HTMX, Railway
+[🔗 GitHub Repo](https://github.com/ChantelleAA/judging_criteria) • [📰 Press Coverage](https://www.linkedin.com/posts/african-institute-for-mathematical-sciences-ghana_aimsqtedu25-quantumforgood-quantathonwinners-activity-7353129321454100482-uauo)  
+**Stack:** Django, Bootstrap, PostgreSQL, HTMX, Railway  
 
 ---
 
-### 📘 TLR Helper – Teaching and Learning Resource Assistant  
-<img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/tlr_helper_1.gif" align="center" width="80%" alt="TLR Helper search demo" />
+### 📘 TLR Helper – Teaching & Learning Resource Assistant  
+<img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/tlr_helper_1.gif" align="center" width="80%" alt="TLR Helper demo" />
 
-A Django web application to help teachers find and use curriculum-aligned Teaching and Learning Resources (TLRs) for the Ghana Standards-Based Curriculum. Includes advanced filtering, downloadable PDFs, and support for special education needs.
-
-- Class-to-strand smart filtering using HTMX  
-- Curriculum preloaded from Ghana’s official SBC documents  
-- Supports different learning styles and special needs  
-- Offline-accessible TLR downloads in PDF format  
-- Built for AIMS and TEDD Ghana's education workshops  
+Web app for Ghana’s **Standards-Based Curriculum**, used in TEDD Ghana teacher workshops.  
+- Curriculum-aligned TLR filtering (Class → Strand → Indicator)  
+- Offline PDF downloads for low-resource schools  
+- Special needs & learning style support  
 
 [🔗 GitHub Repo](https://github.com/ChantelleAA/tlr_app)  
-**Stack:** Django, HTMX, PostgreSQL, Bootstrap, Gunicorn
+**Stack:** Django, HTMX, PostgreSQL, Bootstrap  
 
 ---
 
-### 🤖 NileEdge AI Assistant
-<img width="80%" align="center" alt="NileEdge AI Chatbot demo"
-src="https://github.com/ChantelleAA/ChantelleAA/blob/main/nileedgechatbot.gif" />
+### 🧠 Brain Tumor Segmentation (MICCAI)  
+<img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/tumor_demo.gif" align="center" width="80%" alt="Brain tumor segmentation demo" />
 
-A context-aware chatbot designed for **NileEdge Innovations**, combining semantic FAQ matching, vector-based document retrieval, local LLM inference, and audio transcription via Whisper.
+Built **ensemble models** to improve tumor segmentation on Sub-Saharan MRI data.  
+- Scholarship awardee, **MICCAI 2023**  
+- Presented work on **staple assembling & Mednex** approaches  
+- Focused on improving medical imaging for resource-limited contexts  
 
-- Local privacy-focused chatbot, runs entirely on your machine  
-- Automatically finds relevant answers or uses an LLM when needed  
-- Custom HTML/CSS interface styled to match NileEdge branding  
-- Includes real voice recording and transcription from the browser  
-- Logs unknown questions for FAQ expansion
+[📄 Research Paper (arXiv)](https://arxiv.org/abs/2508.10905) • [📜 MICCAI Certificate](https://drive.google.com/file/d/1Mhlt9DPoW-HOK1Ky5_jtWJBCNLwpWW6M/view?usp=sharing)  
+**Stack:** PyTorch, MONAI, NumPy, Python  
+
+---
+
+### 🤖 NileEdge AI Assistant  
+<img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/nileedgechatbot.gif" align="center" width="80%" alt="NileEdge AI Chatbot demo" />
+
+Context-aware chatbot with **semantic FAQ matching + Whisper transcription**, built for NileEdge Innovations.  
+- Hybrid retrieval + LLM inference  
+- Runs locally for **privacy-first use**  
+- Branded UI + FAQ logging system  
 
 [🔗 GitHub Repo](https://github.com/ChantelleAA/response_aigent)  
-**Stack:** Python, Flask, SentenceTransformers, ChromaDB, Whisper, HTML/CSS/JS
+**Stack:** Python, Flask, ChromaDB, Whisper, SentenceTransformers  
 
 ---
 
-### 🧮 Playing Oware Nam-nam with Reinforcement Learning  
-<img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/oware_demo1.gif" align="center" width="80%" alt="Oware RL demo placeholder" />
+### 🎮 Oware Nam-nam Reinforcement Learning  
+<img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/oware_demo1.gif" align="center" width="80%" alt="Oware RL demo" />
 
-I developed a full Python environment for the traditional Oware game and trained agents like **DQN**, **DDQN**, **A3C**, and **AlphaZero**. Features include human-vs-agent play, agent-vs-agent testing, and reward tracking visualizations.  
-[🔗 GitHub Repo](https://github.com/ChantelleAA/Reinforcement_Learning_Oware)  
-**Stack:** Python, NumPy, TensorFlow, Stable-Baselines, Tkinter
+Python environment + RL agents trained to play the traditional Ghanaian game **Oware**.  
+- Implemented DQN, DDQN, A3C, AlphaZero  
+- Human-vs-agent and agent-vs-agent play  
+- Reward visualization & gameplay tracking  
 
----
-
-### 🧑🏾‍⚖️ Mediation Case Matching & Scheduling System  
-<img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/def.gif" align="center" width="80%" alt="Mediation system solution slides" />
-
-This Django app matches clients to mediators based on skill and availability, streamlining conflict resolution services. Designed for real-world adoption by mediation centers.  
-[🔗 GitHub Repo](https://github.com/ChantelleAA/Matching_and_Scheduling_System)  
-**Stack:** Django, Python, SQLite
+[🔗 GitHub Repo](https://github.com/ChantelleAA/Reinforcement_Learning_Oware) • [📄 Thesis Paper](https://lutpub.lut.fi/bitstream/handle/10024/167861/mastersthesis_Amoako-Atta_Chantelle.pdf?sequence=1&isAllowed=y)  
+**Stack:** Python, TensorFlow, Stable-Baselines  
 
 ---
 
-## My Teaching & Mentorship Work
+# 🏆 Achievements & Recognition  
 
-- 🎓 Led a year-long **coding club at AIMS Ghana**, teaching Python and R to master's students: many now build data science and ML projects from scratch.
-- 📘 Teach professional students at **Adaire Academy**, helping them earn an EPFL Extension School diploma in **Data Science & Machine Learning**.
-- 🧕🏾 Taught Python and Intro to AI at the **AIMS Girls in Mathematical Sciences Program (GMSP)** residential workshop, supporting high-achieving high school grads transitioning into STEM fields.
-- 🎓 Currently mentoring individuals through a **34-week one-on-one AI course**, taking learners from beginner to advanced levels across core topics like Python, ML, and real-world applications.
+- 🎖 **MICCAI Scholarship Awardee (2023)** – Presented brain tumor segmentation work internationally. [📜 Certificate](https://drive.google.com/file/d/1Mhlt9DPoW-HOK1Ky5_jtWJBCNLwpWW6M/view?usp=sharing)  
+- 🏆 **Hackathon Winner** – 1st place in an international hackathon (Boise State, MIT, Tanzania universities).  
+- 🥇 **AIMS Quantathon Mentor** – Guided team “Qualaria” to win the competition + sustainability award. [📰 Press Coverage](https://www.linkedin.com/posts/african-institute-for-mathematical-sciences-ghana_aimsqtedu25-quantumforgood-quantathonwinners-activity-7353129321454100482-uauo)  
+- 📢 **Speaker** – Delivered AI workshops at AIMS Ghana & TEDD Ghana.  
+- ✍️ **Published Research** – [Brain Tumor Segmentation (arXiv)](https://arxiv.org/abs/2508.10905) • [Reinforcement Learning Thesis](https://lutpub.lut.fi/bitstream/handle/10024/167861/mastersthesis_Amoako-Atta_Chantelle.pdf?sequence=1&isAllowed=y)  
+- 📚 **Educator** – Trained 200+ MSc/professional students in ML & Data Science.  
 
 ---
 
-## What I’m Exploring Now
+# 📚 Extended Profile  
 
-- 🧬 **Quantum machine learning** for EEG/MEG signal classification  
-- 💬 **Multilingual object detection and translation** using Gradio, Whisper, and NLLB  
-- 🔍 **Sector classification APIs** using NLP, LangChain, and custom rule-based mapping  
-- 💻 **Visual App Builder** for giving lay people the ability to create apps easily using user-friendly interface (kind of like Canva)
+## 🎓 Teaching & Mentorship
+- Led a year-long **coding club at AIMS Ghana**, teaching MSc students Python & R → now building data science/ML projects independently.  
+- Teach professional students at **Adaire Academy**, helping them earn an EPFL Diploma in **Data Science & Machine Learning**.  
+- Taught Python & Intro to AI at the **AIMS Girls in Mathematical Sciences Program (GMSP)**.  
+- Mentor in a **34-week one-on-one AI course**, taking learners from beginner → advanced in ML.  
+
+---
+
+## 🔍 What I’m Exploring Now
+- 🧬 **Quantum ML** for EEG/MEG classification  
+- 💬 **Multilingual object detection + translation** with Whisper/NLLB  
+- 🔍 **Sector classification APIs** using NLP + LangChain  
+- 💻 **Visual App Builder** (a Canva-like tool for apps)  
 
 ---
 
 ## ✍️ Blog Highlights
+- [Intro to Python – Part 1: Temperature Converter](https://chantelleaa.github.io/archivers/introduction-to-python-in-6-lessons-part-1)  
+- [Intro to Python – Part 2: Simple Calculator](https://chantelleaa.github.io/archivers/introduction-to-python-in-6-lessons-part-1)  
+- [Gradio Part 1: Build ML Interfaces](https://chantelleaa.github.io/archivers/intro-to-gradio-part-1)  
+- [Gradio Part 2: Personality Prediction](https://chantelleaa.github.io/archivers/intro-to-gradio-part-2)  
+- [3 Ways I Scrape the Web](https://chantelleaa.github.io/archivers/intro-to-web-scraping)  
 
-Here are some things I’ve been writing and teaching lately:
-
-- [**Intro to Python – Part 1:** Build a Temperature Converter](https://chantelleaa.github.io/archivers/introduction-to-python-in-6-lessons-part-1)  
-- [**Intro to Python – Part 2:** Make a Simple Calculator](https://chantelleaa.github.io/archivers/introduction-to-python-in-6-lessons-part-1)
-- [**Gradio Part 1:** Build ML Interfaces](https://chantelleaa.github.io/archivers/intro-to-gradio-part-1)  
-- [**Gradio Part 2:** Personality Prediction with Text](https://chantelleaa.github.io/archivers/intro-to-gradio-part-2)
-- [**3 Ways I Scrape the Web (and When to Use Each)**](https://chantelleaa.github.io/archivers/intro-to-web-scraping)
-
-> *Read more at [chantelleaa.github.io](https://chantelleaa.github.io)*
+> More at [chantelleaa.github.io](https://chantelleaa.github.io)  
 
 ---
 
-## 💻 Tech Stack:
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-%23e37922.svg?style=for-the-badge&logo=Mathworks&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-%230079C1.svg?style=for-the-badge&logo=xgboost&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-FF7043?style=for-the-badge&logo=lightgbm&logoColor=white)
-![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-000000?style=for-the-badge&logo=python&logoColor=white)
-![Gym](https://img.shields.io/badge/OpenAI%20Gym-0081A7?style=for-the-badge&logo=openai&logoColor=white)
-
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-![Transformers](https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge&logo=python&logoColor=white)
-![BERT](https://img.shields.io/badge/BERT-1C1C1C?style=for-the-badge&logo=bert&logoColor=white)
-![GPT](https://img.shields.io/badge/GPT-6E40C9?style=for-the-badge&logo=openai&logoColor=white)
-![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-1A237E?style=for-the-badge&logo=nltk&logoColor=white)
-![NetworkX](https://img.shields.io/badge/NetworkX-v2.6.3-blue)
-
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![CuPy](https://img.shields.io/badge/CuPy-002A3A?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![SymPy](https://img.shields.io/badge/SymPy-3776AB?style=for-the-badge&logo=sympy&logoColor=white)
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E3B4E?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-
-![SQL](https://img.shields.io/badge/sql-%23007ACC.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-%23404eed.svg?style=for-the-badge&logo=gradio&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-%23black?style=for-the-badge)
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-![n8n](https://img.shields.io/badge/n8n-ef6830?style=for-the-badge&logo=n8n&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
+## 🛠 Tech Stack (Selected)
+**Core ML/AI**: PyTorch, TensorFlow, scikit-learn, HuggingFace, Transformers, MONAI  
+**Languages**: Python, R, MATLAB, C++  
+**Backend & APIs**: Django, Flask, FastAPI  
+**Deployment**: Docker, GitHub Actions, Render/Railway, AWS (training)  
+**Data**: SQL (Postgres/SQLite), Spark, Pandas, NumPy  
+**Visualization**: Matplotlib, Seaborn, Plotly  
 
 ---
 
-## 📊 GitHub Stats
-
+## 📊 GitHub Activity
 <table>
   <tr>
     <td>
@@ -201,12 +150,4 @@ Here are some things I’ve been writing and teaching lately:
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChantelleAA&theme=dark&hide_border=true&layout=donut" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChantelleAA&theme=dark" />
-    </td>
-    <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=ChantelleAA&theme=dark&margin-w=10&row=2&column=3" />
-    </td>
-  </tr>
-</table>
+</table>  
