@@ -100,7 +100,9 @@ Built a full Python environment for the traditional game **Oware** and trained m
 - 🌍 **Senior Data Science Mentor – Thrive Africa (2025)** – Mentored learners in data science & ML, and co-led a workshop with University of Ghana societies. [📰 Workshop Link](https://www.linkedin.com/feed/update/urn:li:activity:7352575997126311936/)  
 - 👩🏾‍🏫 **Mentor – FemAfricMaths (2025)** – Supporting young women in STEM across Africa.  
 - ✍️ **Published Research** – [Brain Tumor Segmentation (arXiv)](https://arxiv.org/abs/2508.10905) • [Reinforcement Learning Thesis](https://lutpub.lut.fi/bitstream/handle/10024/167861/mastersthesis_Amoako-Atta_Chantelle.pdf?sequence=1&isAllowed=y)  
-- 📚 **Educator** – Trained 200+ MSc and professional students in ML & Data Science.  
+- 📚 **Educator** – Trained 70+ MSc and professional students in ML & Data Science.  
+- 🌐 **Speaker – Ghana NLP Community (2025)** – Invited speaker at the monthly *Learn + Connect* session, sharing my journey in NLP/ML with the community.  
+- 🤝 **Member – Ghana NLP Community (2025–Present)** – Part of Ghana’s leading network for NLP developers, linguists, and researchers building tools for local languages. [🌍 GhanaNLP](https://ghananlp.org)  
 
 ---
 
