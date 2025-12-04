@@ -1,12 +1,12 @@
 <img width="25%" align="right" alt="Chantelle working"
 src="https://github.com/ChantelleAA/ChantelleAA/blob/main/94528-programmer.gif" />
 
-# Hi, I’m Chantelle Amoako-Atta 👋🏾  
+# Hi, I'm Chantelle Amoako-Atta 👋🏾  
 
-I’m a **Machine Learning Engineer, Educator, and PhD Researcher** (AI for Decarbonisation, University College Dublin, 2025).  
-My work blends **AI, healthcare, education, and mathematics**, and I focus on building real-world systems that move from **research to production**.  
+I'm a **Machine Learning Engineer, Educator, and PhD Researcher** (AI for Decarbonisation, University College Dublin, 2025).  
+My work blends **AI, healthcare, education, climate, and mathematics**, and I focus on building real-world systems that move from **research to production**.  
 
-I’ve developed AI solutions across **NLP, computer vision, and reinforcement learning**, and deployed full-stack applications that support communities ranging from **teachers in Ghanaian classrooms** to **judges in international hackathons**.  
+I've developed AI solutions across **NLP, computer vision, geospatial intelligence, and reinforcement learning**, and deployed full-stack applications that support communities ranging from **teachers in Ghanaian classrooms** to **judges in international hackathons**, to **companies building intelligent products across Africa**.  
 
 I also teach MSc and professional students in Python, R, and Machine Learning, and mentor aspiring data scientists through long-term learning programs.  
 
@@ -20,6 +20,20 @@ I also teach MSc and professional students in Python, R, and Machine Learning, a
   <a href="https://chantelleaa.github.io" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Blog-000000?logo=github&logoColor=white">
   </a>
+
+---
+
+# 🔬 Current Research – Climate & Geospatial AI  
+
+As a **PhD Researcher in Decarb-AI at University College Dublin**, I focus on applying AI to climate, energy, and environmental systems. My work explores:
+
+- 🌍 **Remote sensing & geospatial AI** (Sentinel, Copernicus, OpenEarthMap)  
+- 🛰 **Land-cover & biodiversity segmentation** with UNetFormer, FT-UNetFormer & DCSwin  
+- 🔥 **Knowledge Distillation** (teacher–student architectures for segmentation)  
+- 🌫 **Air-quality analysis & pollution mapping** using multi-city datasets  
+- ⚡ **Energy-system decarbonisation analytics**  
+- 🤖 **NLP + CV hybrid systems for sustainability**  
+- 📡 **Satellite + ground-sensor data fusion** for climate-risk assessment  
 
 ---
 
@@ -42,7 +56,7 @@ A Django-based hackathon judging platform used in the **AIMS Quantathon 2024** w
 ### 📘 TLR Helper – Teaching & Learning Resource Assistant  
 <img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/tlr_helper_1.gif" align="center" width="80%" alt="TLR Helper demo" />
 
-A web app supporting Ghana’s **Standards-Based Curriculum**, used in TEDD Ghana teacher workshops.  
+A web app supporting Ghana's **Standards-Based Curriculum**, used in TEDD Ghana teacher workshops.  
 - Smart curriculum filtering (Class → Strand → Indicator)  
 - Offline PDFs for schools with limited internet  
 - Built-in support for special needs and learning styles  
@@ -91,18 +105,46 @@ Built a full Python environment for the traditional game **Oware** and trained m
 
 ---
 
+## 🌍 ODOS Tech – GeoSeg Biodiversity Segmentation  
+<img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/geoseg_demo.gif" align="center" width="80%" alt="GeoSeg demo" />
+
+Led geospatial AI work for **ODOS Tech**, building a biodiversity segmentation pipeline using Sentinel/OpenEarthMap.  
+- Improved mIoU from **68–72% → 87–90%**  
+- Designed **Knowledge Distillation** teacher–student framework  
+- Implemented full training, evaluation & post-processing pipeline  
+- Delivered reproducible results for land-cover classification  
+
+**Stack:** PyTorch, UNetFormer, FT-UNetFormer, DCSwin, GeoPandas, Rasterio, GDAL
+
+---
+
+## 🔋 RTE Energy Research – Pollution & Climate Dashboard (PhD)
+<img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/rte_demo.gif" align="center" width="80%" alt="RTE Demo" />
+
+Developed multi-city pollution dashboards as part of the Decarb-AI PhD program:  
+- Air-quality analytics for Urumqi, Lanzhou, Taiyuan & others  
+- Satellite bounding box extraction + ground sensor fusion  
+- Trend analysis, geo-scatter maps, and city comparison tools  
+- Used for internal Decarb-AI research insights  
+
+**Stack:** Streamlit, GeoPandas, Plotly, Pandas  
+
+---
+
 ## 🏆 Recognition  
 
 - 🎖 **MICCAI Scholar (2023)** – Presented brain tumor segmentation at an international conference. [📜 Certificate](https://drive.google.com/file/d/1Mhlt9DPoW-HOK1Ky5_jtWJBCNLwpWW6M/view?usp=sharing)  
+- 🛰 **Lead ML Engineer – ODOS Tech (2025)** – GeoSeg biodiversity segmentation.  
+- 🌍 **PhD Researcher – Decarb-AI (UCD)** – AI for climate & energy.  
 - 🏆 **Hackathon Winner** – 1st place in an international hackathon (Boise State, MIT, Tanzania universities).  
-- 🥇 **Quantathon Mentor** – Guided team “Qualaria” to win + sustainability award. [📰 Coverage](https://www.linkedin.com/posts/african-institute-for-mathematical-sciences-ghana_aimsqtedu25-quantumforgood-quantathonwinners-activity-7353129321454100482-uauo)  
+- 🥇 **Quantathon Mentor** – Guided team "Qualaria" to win + sustainability award. [📰 Coverage](https://www.linkedin.com/posts/african-institute-for-mathematical-sciences-ghana_aimsqtedu25-quantumforgood-quantathonwinners-activity-7353129321454100482-uauo)  
 - 📢 **Lecturer – AIMS Ghana (2025)** – Delivered a two-week MSc NLP module, from preprocessing → chatbot architectures, using Hugging Face, spaCy, NLTK, and Gradio.  
 - 🌍 **Senior Data Science Mentor – Thrive Africa (2025)** – Mentored learners in data science & ML, and co-led a workshop with University of Ghana societies. [📰 Workshop Link](https://www.linkedin.com/feed/update/urn:li:activity:7352575997126311936/)  
-- 👩🏾‍🏫 **Mentor – FemAfricMaths (2025)** – Supporting young women in STEM across Africa.  
+- 👩🏾‍🏫 **Mentor – FemAfricMaths / Divas in AI (2025)** – Supporting young women in STEM across Africa.  
+- 🌐 **Speaker – Ghana NLP Community (2025)** – Invited speaker at the monthly *Learn + Connect* session, sharing my journey in NLP/ML with the community.  
+- 🤝 **Member – Ghana NLP Community (2025–Present)** – Part of Ghana's leading network for NLP developers, linguists, and researchers building tools for local languages. [🌍 GhanaNLP](https://ghananlp.org)  
 - ✍️ **Published Research** – [Brain Tumor Segmentation (arXiv)](https://arxiv.org/abs/2508.10905) • [Reinforcement Learning Thesis](https://lutpub.lut.fi/bitstream/handle/10024/167861/mastersthesis_Amoako-Atta_Chantelle.pdf?sequence=1&isAllowed=y)  
 - 📚 **Educator** – Trained 200+ Undergraduate, MSc and professional students in Python Programming, ML & Data Science.  
-- 🌐 **Speaker – Ghana NLP Community (2025)** – Invited speaker at the monthly *Learn + Connect* session, sharing my journey in NLP/ML with the community.  
-- 🤝 **Member – Ghana NLP Community (2025–Present)** – Part of Ghana’s leading network for NLP developers, linguists, and researchers building tools for local languages. [🌍 GhanaNLP](https://ghananlp.org)  
 
 ---
 
@@ -121,7 +163,7 @@ Built a full Python environment for the traditional game **Oware** and trained m
 ## ✍️ Recent Writings  
 
 - [Intro to Python – Part 1: Temperature Converter](https://chantelleaa.github.io/archivers/introduction-to-python-in-6-lessons-part-1)  
-- [Intro to Python – Part 2: Simple Calculator](https://chantelleaa.github.io/archivers/introduction-to-python-in-6-lessons-part-1)  
+- [Intro to Python – Part 2: Simple Calculator](https://chantelleaa.github.io/archivers/introduction-to-python-in-6-lessons-part-2)  
 - [Gradio Part 1: Build ML Interfaces](https://chantelleaa.github.io/archivers/intro-to-gradio-part-1)  
 - [Gradio Part 2: Personality Prediction](https://chantelleaa.github.io/archivers/intro-to-gradio-part-2)  
 - [3 Ways I Scrape the Web](https://chantelleaa.github.io/archivers/intro-to-web-scraping)  
@@ -132,11 +174,30 @@ Built a full Python environment for the traditional game **Oware** and trained m
 
 ## 🛠 Tech Stack  
 
+### 🌍 Geospatial & Remote Sensing  
+![GeoPandas](https://img.shields.io/badge/GeoPandas-0E7C7B?style=for-the-badge&logo=python&logoColor=white)
+![Rasterio](https://img.shields.io/badge/Rasterio-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![GDAL](https://img.shields.io/badge/GDAL-5C6BC0?style=for-the-badge&logo=python&logoColor=white)
+![Shapely](https://img.shields.io/badge/Shapely-2E7D32?style=for-the-badge&logo=python&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![SentinelHub](https://img.shields.io/badge/SentinelHub-FF7043?style=for-the-badge&logo=python&logoColor=white)
+![OpenEarthMap](https://img.shields.io/badge/OpenEarthMap-1C1C1C?style=for-the-badge&logo=python&logoColor=white)
+
+### 🤖 LLM Tools  
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Llama.cpp](https://img.shields.io/badge/Llama.cpp-7A4CFC?style=for-the-badge)
+![WhisperX](https://img.shields.io/badge/WhisperX-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-1D3557?style=for-the-badge&logo=python&logoColor=white)
+
+### 💻 Core Languages & Scientific Computing  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23e37922.svg?style=for-the-badge&logo=Mathworks&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23007ACC.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
+### 🧠 Machine Learning & Deep Learning  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -146,6 +207,7 @@ Built a full Python environment for the traditional game **Oware** and trained m
 ![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Gym](https://img.shields.io/badge/OpenAI%20Gym-0081A7?style=for-the-badge&logo=openai&logoColor=white)
 
+### 🗣 NLP & Transformers  
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge&logo=python&logoColor=white)
 ![BERT](https://img.shields.io/badge/BERT-1C1C1C?style=for-the-badge&logo=bert&logoColor=white)
@@ -154,32 +216,30 @@ Built a full Python environment for the traditional game **Oware** and trained m
 ![NLTK](https://img.shields.io/badge/NLTK-1A237E?style=for-the-badge&logo=nltk&logoColor=white)
 ![NetworkX](https://img.shields.io/badge/NetworkX-v2.6.3-blue)
 
+### 📊 Data Science & Visualization  
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![CuPy](https://img.shields.io/badge/CuPy-002A3A?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![SymPy](https://img.shields.io/badge/SymPy-3776AB?style=for-the-badge&logo=sympy&logoColor=white)
-
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E3B4E?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
-![SQL](https://img.shields.io/badge/sql-%23007ACC.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
+### 🌐 Web Development & Deployment  
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-%23404eed.svg?style=for-the-badge&logo=gradio&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-%23black?style=for-the-badge)
 
+### 🛠 Tools & DevOps  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 ![n8n](https://img.shields.io/badge/n8n-ef6830?style=for-the-badge&logo=n8n&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
@@ -187,5 +247,5 @@ Built a full Python environment for the traditional game **Oware** and trained m
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Activity  
 <table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=ChantelleAA&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" /> </td> <td> <img src="https://streak-stats.demolab.com/?user=ChantelleAA&theme=dark&hide_border=true" /> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChantelleAA&theme=dark&hide_border=true&layout=donut" /> </td> </tr> <tr> <td colspan="2"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChantelleAA&theme=dark" /> </td> <td> <img src="https://github-profile-trophy.vercel.app/?username=ChantelleAA&theme=dark&margin-w=10&row=2&column=3" /> </td> </tr> </table>
