@@ -134,7 +134,7 @@ Developed multi-city pollution dashboards as part of the Decarb-AI PhD program:
 ## 🏆 Recognition  
 
 - 🎖 **MICCAI Scholar (2023)** – Presented brain tumor segmentation at an international conference. [📜 Certificate](https://drive.google.com/file/d/1Mhlt9DPoW-HOK1Ky5_jtWJBCNLwpWW6M/view?usp=sharing)  
-- 🛰 **Lead ML Engineer – ODOS Tech (2025)** – GeoSeg biodiversity segmentation.  
+- 🛰 **AI Sandbox Participant - Biodiversity Segmentation** – GeoSeg biodiversity segmentation.  
 - 🌍 **PhD Researcher – Decarb-AI (UCD)** – AI for climate & energy.  
 - 🏆 **Hackathon Winner** – 1st place in an international hackathon (Boise State, MIT, Tanzania universities).  
 - 🥇 **Quantathon Mentor** – Guided team "Qualaria" to win + sustainability award. [📰 Coverage](https://www.linkedin.com/posts/african-institute-for-mathematical-sciences-ghana_aimsqtedu25-quantumforgood-quantathonwinners-activity-7353129321454100482-uauo)  
