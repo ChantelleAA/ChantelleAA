@@ -114,8 +114,7 @@ Led geospatial AI work for **ODOS Tech**, building a biodiversity segmentation p
 - Implemented full training, evaluation & post-processing pipeline  
 - Delivered reproducible results for land-cover classification  
 
-[🔗 GitHub Repo 1 (Analysis)](https://github.com/ChantelleAA/geoseg)
-[🔗 GitHub Repo 2 (Image Generation)](https://github.com/ChantelleAA/geseg_GAN)
+[🔗 GitHub Repo 1 (Analysis)](https://github.com/ChantelleAA/geoseg) • [🔗 GitHub Repo 2 (Image Generation)](https://github.com/ChantelleAA/geseg_GAN)
 **Stack:** PyTorch, UNetFormer, FT-UNetFormer, DCSwin, GeoPandas, Rasterio, GDAL
 
 ---
@@ -129,8 +128,7 @@ Developed multi-city pollution dashboards as part of the Decarb-AI PhD program:
 - Trend analysis, geo-scatter maps, and city comparison tools  
 - Used for internal Decarb-AI research insights  
 
-[🔗 GitHub Repo 1 (Analysis)](https://github.com/ChantelleAA/urumqi_analysis)
-[🔗 GitHub Repo 2 (Dashboard)](https://github.com/ChantelleAA/pollution_viz)
+[🔗 GitHub Repo 1 (Analysis)](https://github.com/ChantelleAA/urumqi_analysis) • [🔗 GitHub Repo 2 (Dashboard)](https://github.com/ChantelleAA/pollution_viz)
 **Stack:** Streamlit, GeoPandas, Plotly, Pandas  
 
 ---
