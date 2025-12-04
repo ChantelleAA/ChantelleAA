@@ -105,8 +105,8 @@ Built a full Python environment for the traditional game **Oware** and trained m
 
 ---
 
-## 🌍 ODOS Tech – GeoSeg Biodiversity Segmentation  
-<img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/geoseg_demo.gif" align="center" width="80%" alt="GeoSeg demo" />
+## 🌍 AI Sandbox – GeoSeg Biodiversity Segmentation  
+<img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/biodiversity.gif" align="center" width="80%" alt="GeoSeg demo" />
 
 Led geospatial AI work for **ODOS Tech**, building a biodiversity segmentation pipeline using Sentinel/OpenEarthMap.  
 - Improved mIoU from **68–72% → 87–90%**  
