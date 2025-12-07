@@ -122,7 +122,7 @@ Led geospatial AI work for **ODOS Tech**, building a biodiversity segmentation p
 ## 🔋 RTE Energy Research – Pollution & Climate Dashboard
 <img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/air-quality-app.gif" align="center" width="80%" alt="RTE Demo" />
 
-Developed multi-city pollution dashboards as part of the Decarb-AI PhD program:  
+Developed multi-city pollution dashboards as part of the a research done for RTE Investigates story on the cost of renewable energy:  
 - Air-quality analytics for Urumqi, Lanzhou, Taiyuan & others  
 - Satellite bounding box extraction + ground sensor fusion  
 - Trend analysis, geo-scatter maps, and city comparison tools  
