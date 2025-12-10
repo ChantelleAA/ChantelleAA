@@ -158,7 +158,7 @@ Developed multi-city pollution dashboards as part of the a research done for RTE
 - 🧕🏾 Taught Python & Intro to AI at the **AIMS Girls in Mathematical Sciences Program (GMSP)** residential workshop.  
 - 🌍 **Senior Data Science Mentor (Thrive Africa, 2025–Present)** – Supporting learners in the Campus & Graduate Data Science programs with mentorship in Python, TensorFlow, and ML best practices. [📰 Workshop Highlight](https://www.linkedin.com/feed/update/urn:li:activity:7352575997126311936/)  
 - 👩🏾‍🏫 **Mentor – Divas in AI / FemAfricMaths (2025–Present)** – Mentoring young women in STEM, focusing on mathematics, data science, and AI.  
-- 🎓 Mentor in a **34-week one-on-one AI course**, guiding learners from fundamentals → advanced applied ML.  
+- 🎓 Mentor in a **34-week one-on-one AI course**, guiding learners from fundamentals to advanced applied ML.  
 
 ---
 
