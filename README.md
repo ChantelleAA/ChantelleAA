@@ -1,7 +1,7 @@
 <img width="25%" align="right" alt="Chantelle working"
 src="https://github.com/ChantelleAA/ChantelleAA/blob/main/94528-programmer.gif" />
 
-# Hi, I'm Chantelle Amoako-Atta 👋🏾  
+# Hi, I'm Chantelle Amoako-Atta 👋🏾        
 
 I'm a **Machine Learning Engineer, Educator, and PhD Researcher** (AI for Decarbonisation, University College Dublin, 2025).  
 My work blends **AI, healthcare, education, climate, and mathematics**, and I focus on building real-world systems that move from **research to production**.  
