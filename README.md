@@ -86,7 +86,7 @@ A context-aware chatbot with **semantic FAQ matching + Whisper transcription**, 
 - Hybrid retrieval + LLM inference  
 - Privacy-first: runs entirely locally  
 - Custom UI + automatic FAQ expansion  
-
+   
 [🔗 GitHub Repo](https://github.com/ChantelleAA/response_aigent)  
 **Stack:** Python, Flask, ChromaDB, Whisper  
 
