@@ -62,7 +62,7 @@ A web app supporting Ghana's **Standards-Based Curriculum**, used in TEDD Ghana 
 - Built-in support for special needs and learning styles  
 
 [🔗 GitHub Repo](https://github.com/ChantelleAA/tlr_app)  
-**Stack:** Django, HTMX, PostgreSQL, Bootstrap  
+**Stack:** Django, HTMX, PostgreSQL, Bootstrap5  
 
 ---
 
