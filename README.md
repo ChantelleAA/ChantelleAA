@@ -34,6 +34,7 @@ As a **PhD Researcher in Decarb-AI at University College Dublin**, I focus on ap
 - ⚡ **Energy-system decarbonisation analytics**  
 - 🤖 **NLP + CV hybrid systems for sustainability**  
 - 📡 **Satellite + ground-sensor data fusion** for climate-risk assessment  
+- 📝 **OCR & Document AI** – Researching and benchmarking optical character recognition systems for low-resource languages and document processing  
 
 ---
 
@@ -133,6 +134,29 @@ Developed multi-city pollution dashboards as part of the a research done for RTE
 
 ---
 
+### 📄 OCR Research & Evaluation  
+Comprehensive research project evaluating state-of-the-art OCR tools for document processing.   
+- Benchmarking multiple OCR engines (Tesseract, EasyOCR, PaddleOCR, etc.)  
+- Performance metrics comparison across different document types  
+- Preprocessing pipeline optimization for improved accuracy  
+- Focused on low-resource language support and real-world applications  
+
+**Stack:** Python, Tesseract, EasyOCR, PaddleOCR, OpenCV, PIL  
+
+---
+
+### 🌍 GeoAI Workshop – Satellite Data & Land Cover Analysis  
+Workshop materials and teaching resources for geospatial AI and environmental monitoring.  
+- Hands-on tutorials for satellite imagery processing  
+- Land cover classification using machine learning  
+- Environmental data analysis with Python  
+- Jupyter notebooks for remote sensing applications  
+
+[🔗 GitHub Repo](https://github.com/ChantelleAA/gain_geoai_workshop)  
+**Stack:** Python, Jupyter Notebook, GeoPandas, Rasterio, Satellite Imagery, QGIS  
+
+---
+
 ## 🏆 Recognition  
 
 - 🎖 **MICCAI Scholar (2023)** – Presented brain tumor segmentation at an international conference. [📜 Certificate](https://drive.google.com/file/d/1Mhlt9DPoW-HOK1Ky5_jtWJBCNLwpWW6M/view?usp=sharing)  
@@ -159,6 +183,7 @@ Developed multi-city pollution dashboards as part of the a research done for RTE
 - 🌍 **Senior Data Science Mentor (Thrive Africa, 2025–Present)** – Supporting learners in the Campus & Graduate Data Science programs with mentorship in Python, TensorFlow, and ML best practices. [📰 Workshop Highlight](https://www.linkedin.com/feed/update/urn:li:activity:7352575997126311936/)  
 - 👩🏾‍🏫 **Mentor – Divas in AI / FemAfricMaths (2025–Present)** – Mentoring young women in STEM, focusing on mathematics, data science, and AI.  
 - 🎓 Mentor in a **34-week one-on-one AI course**, guiding learners from fundamentals to advanced applied ML.  
+- 🌍 **GeoAI Workshop Instructor (GAIN, 2025)** – Designed and delivered hands-on workshop on geospatial AI using Python, covering satellite imagery processing, land cover classification, and environmental data analysis with GeoPandas, Rasterio, and remote sensing tools.  
 
 ---
 
