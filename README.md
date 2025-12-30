@@ -146,6 +146,8 @@ Comprehensive research project evaluating state-of-the-art OCR tools for documen
 ---
 
 ### 🌍 GeoAI Workshop – Satellite Data & Land Cover Analysis  
+<img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/geoai workshop.gif" align="center" width="80%" alt="GEOAI Workshop" />
+
 Workshop materials and teaching resources for geospatial AI and environmental monitoring.  
 - Hands-on tutorials for satellite imagery processing  
 - Land cover classification using machine learning  
