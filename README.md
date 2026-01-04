@@ -278,10 +278,10 @@ Workshop materials and teaching resources for geospatial AI and environmental mo
       <img src="https://github-readme-stats-h7551s0dx-chantelleaas-projects.vercel.app/api?username=ChantelleAA&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
     </td> 
     <td> 
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChantelleAA&theme=dark&hide_border=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChantelleAA&theme=dark&hide_border=true" /> 
     </td> 
     <td> 
-      <img src="https://github-readme-stats-h7551s0dx-chantelleaas-projects.vercel.app/api/top-langs/?username=ChantelleAA&layout=compact&langs_count=6&card_width=320&theme=dark" />
+      <img src="https://github-readme-stats-h7551s0dx-chantelleaas-projects.vercel.app/api/top-langs/?username=ChantelleAA&layout=compact&langs_count=6&card_width=320&theme=dark&hide_border=true" /> 
     </td> 
   </tr> 
   <tr> 
