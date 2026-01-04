@@ -281,7 +281,7 @@ Workshop materials and teaching resources for geospatial AI and environmental mo
       <img src="https://streak-stats.demolab.com/?user=ChantelleAA&theme=dark&hide_border=true" /> 
     </td> 
     <td> 
-      <img src="https://github-readme-stats-h7551s0dx-chantelleaas-projects.vercel.app/api/top-langs/?username=ChantelleAA&theme=dark&hide_border=true&layout=donut" /> 
+      <img src="https://github-readme-stats-h7551s0dx-chantelleaas-projects.vercel.app/api/top-langs/?username=ChantelleAA&layout=compact&langs_count=6&card_width=320&theme=dark&hide_border=true" />
     </td> 
   </tr> 
   <tr> 
