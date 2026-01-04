@@ -275,13 +275,13 @@ Workshop materials and teaching resources for geospatial AI and environmental mo
 <table>
   <tr> 
     <td> 
-      <img src="https://github-readme-stats.vercel.app/api?username=ChantelleAA&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+      <img src="https://github-readme-stats-h7551s0dx-chantelleaas-projects.vercel.app/api?username=ChantelleAA&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
     </td> 
     <td> 
       <img src="https://streak-stats.demolab.com/?user=ChantelleAA&theme=dark&hide_border=true" /> 
     </td> 
     <td> 
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChantelleAA&theme=dark&hide_border=true&layout=donut" /> 
+      <img src="https://github-readme-stats-h7551s0dx-chantelleaas-projects.vercel.app/api/top-langs/?username=ChantelleAA&theme=dark&hide_border=true&layout=donut" /> 
     </td> 
   </tr> 
   <tr> 
