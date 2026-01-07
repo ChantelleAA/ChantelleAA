@@ -40,6 +40,20 @@ As a **PhD Researcher in Decarb-AI at University College Dublin**, I focus on ap
 
 ## Featured Projects  
 
+### 🔋 RTE Energy Research – Pollution & Climate Dashboard
+<img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/air-quality-app.gif" align="center" width="80%" alt="RTE Demo" />
+
+Developed multi-city pollution dashboards as part of the a research done for RTE Investigates story on the cost of renewable energy:  
+- Air-quality analytics for Urumqi, Lanzhou, Taiyuan & others  
+- Satellite bounding box extraction + ground sensor fusion  
+- Trend analysis, geo-scatter maps, and city comparison tools  
+- Used for internal Decarb-AI research insights  
+
+[🔗 GitHub Repo 1 (Analysis)](https://github.com/ChantelleAA/urumqi_analysis) • [🔗 GitHub Repo 2 (Dashboard)](https://github.com/ChantelleAA/pollution_viz)  
+**Stack:** Streamlit, GeoPandas, Plotly, Pandas  
+
+---
+
 ### 🧑🏾‍⚖️ Quantathon Judging App  
 <img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/judging_demo.gif" align="center" width="80%" alt="Quantathon Judging App demo" />
 
@@ -120,19 +134,6 @@ Led geospatial AI work for **ODOS Tech**, building a biodiversity segmentation p
 
 ---
 
-## 🔋 RTE Energy Research – Pollution & Climate Dashboard
-<img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/air-quality-app.gif" align="center" width="80%" alt="RTE Demo" />
-
-Developed multi-city pollution dashboards as part of the a research done for RTE Investigates story on the cost of renewable energy:  
-- Air-quality analytics for Urumqi, Lanzhou, Taiyuan & others  
-- Satellite bounding box extraction + ground sensor fusion  
-- Trend analysis, geo-scatter maps, and city comparison tools  
-- Used for internal Decarb-AI research insights  
-
-[🔗 GitHub Repo 1 (Analysis)](https://github.com/ChantelleAA/urumqi_analysis) • [🔗 GitHub Repo 2 (Dashboard)](https://github.com/ChantelleAA/pollution_viz)  
-**Stack:** Streamlit, GeoPandas, Plotly, Pandas  
-
----
 
 ### 📄 OCR Research & Evaluation  
 Comprehensive research project evaluating state-of-the-art OCR tools for document processing.   
