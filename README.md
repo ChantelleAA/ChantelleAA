@@ -4,7 +4,7 @@ src="https://github.com/ChantelleAA/ChantelleAA/blob/main/94528-programmer.gif" 
 # Hi, I'm Chantelle Amoako-Atta 👋🏾        
                                           
 I'm a **AI/ML Engineer, PhD Researcher (AI for Decarbonisation, University College Dublin, 2025), and Educator**.  
-My work blends **AI, education, climate, and mathematics**, and I focus on building real-world systems that move from **research to production**.  
+My work blends **AI, education, climate, and mathematics**, and I focus on building real-world systems  that move from **research to production**.  
 
 I've developed AI solutions across **NLP, computer vision, geospatial analysis, business and reinforcement learning**, and deployed full-stack applications that support communities ranging from **teachers in Ghanaian classrooms** to **judges in international hackathons**, to **companies building intelligent products across Africa**.  
 
