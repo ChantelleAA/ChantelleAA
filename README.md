@@ -71,7 +71,7 @@ A Django-based hackathon judging platform used in the **AIMS Quantathon 2024** w
 ### 📘 TLR Helper – Teaching & Learning Resource Assistant  
 <img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/tlr_helper_1.gif" align="center" width="80%" alt="TLR Helper demo" />
 
-A web app supporting Ghana's **Standards-Based Curriculum**, used in TEDD Ghana teacher workshops.  
+A web app supporting Ghana's **Standards-Based Curriculum**, for teachers used in TEDD Ghana teacher workshops.  
 - Smart curriculum filtering (Class → Strand → Indicator)  
 - Offline PDFs for schools with limited internet  
 - Built-in support for special needs and learning styles  
