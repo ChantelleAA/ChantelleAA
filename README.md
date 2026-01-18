@@ -20,7 +20,6 @@ I also teach MSc and professional students in Python, R, and Machine Learning, a
   <a href="https://chantelleaa.github.io" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Blog-000000?logo=github&logoColor=white">
   </a>
-
 ---
 
 # 🔬 Current Research – Climate & Geospatial AI  
@@ -31,7 +30,7 @@ As a **PhD Researcher in Decarb-AI at University College Dublin**, I focus on ap
 - 🛰 **Land-cover & biodiversity segmentation** with UNetFormer, FT-UNetFormer & DCSwin  
 - 🔥 **Knowledge Distillation** (teacher–student architectures for segmentation)  
 - 🌫 **Air-quality analysis & pollution mapping** using multi-city datasets  
-- ⚡ **Energy-system decarbonisation analytics**  
+- ⚡ **Wind Turbine Design by predicting extreme wind events**  
 - 🤖 **NLP + CV hybrid systems for sustainability**  
 - 📡 **Satellite + ground-sensor data fusion** for climate-risk assessment  
 - 📝 **OCR & Document AI** – Researching and benchmarking optical character recognition systems for low-resource languages and document processing  
