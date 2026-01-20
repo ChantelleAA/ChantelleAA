@@ -60,7 +60,7 @@ A Django-based hackathon judging platform used in the **AIMS Quantathon 2024** w
 - Real-time leaderboard & analytics  
 - Criteria filtered by judge expertise  
 - One-time secure voting links  
-- Admin dashboard for managing live events  
+- Admin dashboard for managing live events    
 
 [🔗 GitHub Repo](https://github.com/ChantelleAA/judging_criteria) • [📰 Press Coverage](https://www.linkedin.com/posts/african-institute-for-mathematical-sciences-ghana_aimsqtedu25-quantumforgood-quantathonwinners-activity-7353129321454100482-uauo)  
 **Stack:** Django, PostgreSQL, HTMX, Railway  
