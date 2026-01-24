@@ -19,21 +19,22 @@ I also teach MSc and professional students in Python, R, and Machine Learning, a
   </a>
   <a href="https://chantelleaa.github.io" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Blog-000000?logo=github&logoColor=white">
-  </a>
 ---
 
 # 🔬 Current Research – Climate & Geospatial AI  
 
-As a **PhD Researcher in Decarb-AI at University College Dublin**, I focus on applying AI to climate, energy, and environmental systems. My work explores:
+As a **PhD Researcher in Decarb-AI at University College Dublin**, I focus on applying AI to climate, energy, and environmental systems. My work explores:  
+
+- ⚡ **Wind Turbine Design by predicting extreme wind events**
+
+Other research projects I've worked on which are not directly related to my PhD include:  
 
 - 🌍 **Remote sensing & geospatial AI** (Sentinel, Copernicus, OpenEarthMap)  
-- 🛰 **Land-cover & biodiversity segmentation** with UNetFormer, FT-UNetFormer & DCSwin  
-- 🔥 **Knowledge Distillation** (teacher–student architectures for segmentation)  
-- 🌫 **Air-quality analysis & pollution mapping** using multi-city datasets  
-- ⚡ **Wind Turbine Design by predicting extreme wind events**  
-- 🤖 **NLP + CV hybrid systems for sustainability**  
-- 📡 **Satellite + ground-sensor data fusion** for climate-risk assessment  
+- 🔥 **Knowledge Distillation for improved biodiversity segmentation** (teacher–student architectures for segmentation with UNetFormer, FT-UNetFormer & DCSwin)  
+- 🌫 **Air-quality analysis & pollution mapping** using multi-city datasets obtained from ECMWF and Copernicus 
 - 📝 **OCR & Document AI** – Researching and benchmarking optical character recognition systems for low-resource languages and document processing  
+- 🗺 **Geospatial demand modeling & spatial market intelligence** – demand indexing, expansion targeting, customer density analysis, and region-level opportunity scoring
+- 🔗 **Graph-based analytics & relationship modeling** – product affinity analysis, merchant clustering, bundle recommendation logic, and network-based insights 
 
 ---
 
@@ -49,7 +50,7 @@ Developed multi-city pollution dashboards as part of the a research done for RTE
 - Used for internal Decarb-AI research insights  
 
 [🔗 GitHub Repo 1 (Analysis)](https://github.com/ChantelleAA/urumqi_analysis) • [🔗 GitHub Repo 2 (Dashboard)](https://github.com/ChantelleAA/pollution_viz)  
-**Stack:** Streamlit, GeoPandas, Plotly, Pandas  
+**Stack:** Python, Streamlit, GeoPandas, Plotly, Pandas  
 
 ---
 
