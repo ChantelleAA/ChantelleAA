@@ -294,5 +294,3 @@ Workshop materials and teaching resources for geospatial AI and environmental mo
     </td> 
   </tr> 
 </table>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ChantelleAA)
