@@ -144,7 +144,7 @@ Comprehensive research project evaluating state-of-the-art OCR tools for documen
 
 **Stack:** Python, Tesseract, EasyOCR, PaddleOCR, OpenCV, PIL  
 
----
+---  
 
 ### 🌍 GeoAI Workshop – Satellite Data & Land Cover Analysis  
 <img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/geoai workshop.gif" align="center" width="80%" alt="GEOAI Workshop" />
