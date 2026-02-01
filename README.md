@@ -1,3 +1,4 @@
+
 <img width="25%" align="right" alt="Chantelle working"
 src="https://github.com/ChantelleAA/ChantelleAA/blob/main/94528-programmer.gif" />
 
@@ -174,6 +175,7 @@ Workshop materials and teaching resources for geospatial AI and environmental mo
 - 🤝 **Member – Ghana NLP Community (2025–Present)** – Part of Ghana's leading network for NLP developers, linguists, and researchers building tools for local languages. [🌍 GhanaNLP](https://ghananlp.org)  
 - ✍️ **Published Research** – [Brain Tumor Segmentation (arXiv)](https://arxiv.org/abs/2508.10905) • [Reinforcement Learning Thesis](https://lutpub.lut.fi/bitstream/handle/10024/167861/mastersthesis_Amoako-Atta_Chantelle.pdf?sequence=1&isAllowed=y)  
 - 📚 **Educator** – Trained 200+ Undergraduate, MSc and professional students in Python Programming, ML & Data Science.  
+- 🎤 **Public Speaker** – Spoke at seminars on Teaching Practices, Generative AI and Breaking into AI from diverse educational backgrounds.
 
 ---
 
