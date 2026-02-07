@@ -3,7 +3,7 @@
 src="https://github.com/ChantelleAA/ChantelleAA/blob/main/94528-programmer.gif" />
 
 # Hi, I'm Chantelle Amoako-Atta 👋🏾        
-                                          
+                                               
 I'm a **AI/ML Engineer with Kola Market, PhD Researcher in AI for Decarbonisation, University College Dublin, 2025, and Data Science and Machine Learning Educator**.  
 My work blends **AI, education, climate, and mathematics**, and I focus on building real-world systems  that move from **research to production**.  
 
