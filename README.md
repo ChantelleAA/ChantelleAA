@@ -177,7 +177,7 @@ Workshop materials and teaching resources for geospatial AI and environmental mo
 - 📚 **Educator** – Trained 200+ Undergraduate, MSc and professional students in Python Programming, ML & Data Science.  
 - 🎤 **Public Speaker** – Spoke at seminars on Teaching Practices, Generative AI and Breaking into AI from diverse educational backgrounds.
 
----
+---  
 
 ## 🎓 Teaching & Mentorship  
 
