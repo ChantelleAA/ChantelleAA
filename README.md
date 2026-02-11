@@ -143,7 +143,7 @@ Comprehensive research project evaluating state-of-the-art OCR tools for documen
 - Preprocessing pipeline optimization for improved accuracy  
 - Focused on low-resource language support and real-world applications  
 
-**Stack:** Python, Tesseract, EasyOCR, PaddleOCR, OpenCV, PIL  
+**Stack:** Python, Tesseract, EasyOCR, PaddleOCR, OpenCV, PIL       
 
 ---  
 
