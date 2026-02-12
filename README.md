@@ -10,7 +10,7 @@ My work blends **AI, education, climate, and mathematics**, and I focus on build
 I've developed AI solutions across **NLP, computer vision, geospatial analysis, business and reinforcement learning**, and deployed full-stack applications that support communities ranging from **teachers in Ghanaian classrooms** to **judges in international hackathons**, to **companies building intelligent products across Africa**.  
 
 I also teach MSc and professional students in Python, R, and Machine Learning, and mentor aspiring data scientists through long-term learning programs.  
-
+                      
 📬 **Find me online**:
   <a href="https://linkedin.com/in/chantelleaa" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
