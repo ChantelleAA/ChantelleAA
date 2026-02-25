@@ -21,7 +21,7 @@ I also teach MSc and professional students in Python, R, and Machine Learning, a
   <a href="https://chantelleaa.github.io" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Blog-000000?logo=github&logoColor=white">
 ---
-
+                                                           
 # 🔬 Current Research – Climate & Geospatial AI  
 
 As a **PhD Researcher in Decarb-AI at University College Dublin**, I focus on applying AI to climate, energy, and environmental systems. My work explores:  
