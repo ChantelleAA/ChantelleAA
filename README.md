@@ -51,8 +51,8 @@ A **retrieval-augmented generation (RAG) chatbot** for wind turbine technicians 
 - Suggested follow-up questions and session persistence for continuous troubleshooting workflows  
 - Deployed on Vercel with Galetech branding and mobile-first responsive design  
 
-[🔗 GitHub Repo](https://github.com/ChantelleAA/galetech-rag) • [How it works](https://galetech-rag.vercel.app/flow_diagram.html)
-[Architecture & Pipeline Breakdown](https://github.com/ChantelleAA/ChantelleAA/blob/main/galetech_pipeline.html)
+[🔗 GitHub Repo](https://github.com/ChantelleAA/galetech-rag) • [How it works](https://galetech-rag.vercel.app/flow_diagram.html) • 
+[Architecture & Pipeline Breakdown](https://github.com/ChantelleAA/ChantelleAA/blob/main/galetech_pipeline.html)  
 **Stack:** Python, Next.js 16, TypeScript, GPT-4.1, Vercel AI SDK, Tailwind CSS, csv-parse 
 
 
