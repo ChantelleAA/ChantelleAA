@@ -1,0 +1,658 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Galetech RAG Pipeline — Project Case Study</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@600;700;800&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:       #0b0d11;
+      --surface:  #12151a;
+      --surf2:    #181c23;
+      --border:   #23282f;
+      --bord2:    #2e343d;
+      --t1: #e8ecf2;
+      --t2: #7e8895;
+      --t3: #454e5a;
+
+      --s1: #f06a3d;
+      --s2: #e8a922;
+      --s3: #1ec99b;
+      --s4: #9b87f5;
+      --s5: #5aabf7;
+      --s6: #4ade80;
+
+      --wire: #1ec99b;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      background: var(--bg);
+      color: var(--t1);
+      font-family: 'DM Sans', sans-serif;
+      font-weight: 400;
+      line-height: 1.6;
+      min-height: 100vh;
+      background-image: radial-gradient(circle, #232830 1px, transparent 1px);
+      background-size: 28px 28px;
+    }
+
+    /* ── HERO ───────────────────────────────────────── */
+    .hero {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 72px 32px 56px;
+      position: relative;
+    }
+
+    .hero-eyebrow {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      letter-spacing: .12em;
+      color: var(--s3);
+      text-transform: uppercase;
+      margin-bottom: 16px;
+    }
+
+    .hero-title {
+      font-family: 'Syne', sans-serif;
+      font-weight: 800;
+      font-size: clamp(32px, 5vw, 54px);
+      line-height: 1.08;
+      color: var(--t1);
+      margin-bottom: 20px;
+    }
+
+    .hero-title span {
+      color: var(--s3);
+    }
+
+    .hero-desc {
+      font-size: 16px;
+      font-weight: 300;
+      color: var(--t2);
+      max-width: 580px;
+      line-height: 1.75;
+      margin-bottom: 36px;
+    }
+
+    .hero-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 40px;
+    }
+
+    .hero-tag {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      padding: 5px 12px;
+      border-radius: 4px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      color: var(--t2);
+    }
+
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 1px;
+      background: var(--border);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      overflow: hidden;
+    }
+
+    .stat {
+      background: var(--surface);
+      padding: 18px 20px;
+      text-align: center;
+    }
+
+    .stat-num {
+      font-family: 'Syne', sans-serif;
+      font-weight: 700;
+      font-size: 26px;
+      color: var(--s3);
+      display: block;
+      line-height: 1;
+      margin-bottom: 5px;
+    }
+
+    .stat-label {
+      font-size: 11px;
+      color: var(--t3);
+      letter-spacing: .04em;
+    }
+
+    /* ── PIPELINE WRAPPER ───────────────────────────── */
+    .pipeline {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 0 32px 80px;
+      position: relative;
+    }
+
+    .pipeline::before {
+      content: '';
+      position: absolute;
+      left: 65px;
+      top: 0;
+      bottom: 60px;
+      width: 1px;
+      background: linear-gradient(to bottom, transparent, var(--border) 5%, var(--border) 95%, transparent);
+    }
+
+    /* ── STAGE ──────────────────────────────────────── */
+    .stage {
+      position: relative;
+      padding-left: 80px;
+      margin-bottom: 16px;
+      opacity: 0;
+      transform: translateY(24px);
+      transition: opacity .5s ease, transform .5s ease;
+    }
+
+    .stage.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    .stage-node {
+      position: absolute;
+      left: 46px;
+      top: 22px;
+      width: 38px;
+      height: 38px;
+      border-radius: 50%;
+      background: var(--surf2);
+      border: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Syne', sans-serif;
+      font-weight: 700;
+      font-size: 13px;
+      color: var(--accent);
+      z-index: 1;
+      transition: border-color .3s;
+    }
+
+    .stage:hover .stage-node {
+      border-color: var(--accent);
+    }
+
+    .stage-header {
+      display: flex;
+      align-items: baseline;
+      gap: 14px;
+      padding: 22px 0 14px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 16px;
+    }
+
+    .stage-num {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 10px;
+      letter-spacing: .1em;
+      color: var(--accent);
+      opacity: .7;
+    }
+
+    .stage-title {
+      font-family: 'Syne', sans-serif;
+      font-weight: 700;
+      font-size: 17px;
+      color: var(--t1);
+    }
+
+    .stage-badge {
+      margin-left: auto;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 10px;
+      padding: 3px 9px;
+      border-radius: 3px;
+      background: transparent;
+      border: 1px solid var(--border);
+      color: var(--t3);
+    }
+
+    /* ── CARDS ──────────────────────────────────────── */
+    .cards {
+      display: grid;
+      gap: 10px;
+    }
+    .g2 { grid-template-columns: 1fr 1fr; }
+    .g3 { grid-template-columns: 1fr 1fr 1fr; }
+    .g4 { grid-template-columns: 1fr 1fr 1fr 1fr; }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-top: 2px solid var(--accent);
+      border-radius: 8px;
+      padding: 16px 16px 14px;
+      transition: border-color .2s, background .2s, transform .2s;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .card::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: var(--accent);
+      opacity: 0;
+      transition: opacity .2s;
+      pointer-events: none;
+    }
+
+    .card:hover {
+      border-color: var(--accent);
+      background: var(--surf2);
+      transform: translateY(-2px);
+    }
+
+    .card:hover::after {
+      opacity: .03;
+    }
+
+    .card-title {
+      font-family: 'DM Sans', sans-serif;
+      font-weight: 500;
+      font-size: 13px;
+      color: var(--t1);
+      margin-bottom: 6px;
+    }
+
+    .card-desc {
+      font-size: 11.5px;
+      color: var(--t2);
+      line-height: 1.6;
+      font-weight: 300;
+      margin-bottom: 10px;
+    }
+
+    .card-file {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 10px;
+      color: var(--accent);
+      opacity: .7;
+      margin-bottom: 8px;
+      display: block;
+    }
+
+    .tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 4px;
+    }
+
+    .tag {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 9.5px;
+      padding: 2px 7px;
+      border-radius: 3px;
+      background: var(--surf2);
+      border: 1px solid var(--border);
+      color: var(--t3);
+    }
+
+    /* ── CONNECTOR ──────────────────────────────────── */
+    .connector {
+      display: flex;
+      justify-content: flex-start;
+      padding-left: 80px;
+      height: 32px;
+      align-items: center;
+    }
+
+    .connector-inner {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 2px;
+      margin-left: -13px;
+    }
+
+    .connector-dot {
+      width: 4px;
+      height: 4px;
+      border-radius: 50%;
+      background: var(--border);
+    }
+
+    /* ── FOOTER ─────────────────────────────────────── */
+    footer {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 32px 32px 56px;
+      border-top: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 24px;
+      flex-wrap: wrap;
+    }
+
+    .footer-left {
+      font-size: 12px;
+      color: var(--t3);
+      font-weight: 300;
+    }
+
+    .footer-left strong {
+      color: var(--t2);
+      font-weight: 500;
+    }
+
+    .footer-stack {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+
+    .footer-pill {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 10px;
+      padding: 4px 10px;
+      border-radius: 4px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      color: var(--t3);
+    }
+
+    /* ── RESPONSIVE ─────────────────────────────────── */
+    @media (max-width: 700px) {
+      .pipeline::before { left: 48px; }
+      .stage { padding-left: 60px; }
+      .stage-node { left: 30px; width: 32px; height: 32px; font-size: 11px; }
+      .connector { padding-left: 60px; }
+      .connector-inner { margin-left: -8px; }
+      .g3, .g4 { grid-template-columns: 1fr 1fr; }
+      .stats-bar { grid-template-columns: repeat(2, 1fr); }
+    }
+
+    @media (max-width: 480px) {
+      .g2, .g3, .g4 { grid-template-columns: 1fr; }
+      .hero { padding: 48px 20px 40px; }
+      .pipeline { padding: 0 20px 60px; }
+      footer { padding: 24px 20px 40px; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- HERO -->
+  <header class="hero">
+    <p class="hero-eyebrow">// project case study</p>
+    <h1 class="hero-title">Galetech RAG<br><span>Pipeline</span></h1>
+    <p class="hero-desc">
+      An AI fault-diagnosis assistant for wind turbine technicians. Ask plain-English questions about alarm codes, maintenance history, or site data — answers grounded in real Galetech records, cited to source.
+    </p>
+    <div class="hero-tags">
+      <span class="hero-tag">Python</span>
+      <span class="hero-tag">GPT-4.1</span>
+      <span class="hero-tag">Next.js 16</span>
+      <span class="hero-tag">Vercel</span>
+      <span class="hero-tag">TypeScript</span>
+      <span class="hero-tag">Tailwind CSS</span>
+      <span class="hero-tag">OpenAI Streaming</span>
+      <span class="hero-tag">csv-parse</span>
+    </div>
+    <div class="stats-bar">
+      <div class="stat">
+        <span class="stat-num">387</span>
+        <span class="stat-label">alarm codes ingested</span>
+      </div>
+      <div class="stat">
+        <span class="stat-num">3</span>
+        <span class="stat-label">data sources merged</span>
+      </div>
+      <div class="stat">
+        <span class="stat-num">25</span>
+        <span class="stat-label">automated test convos</span>
+      </div>
+      <div class="stat">
+        <span class="stat-num">6</span>
+        <span class="stat-label">pipeline stages</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- PIPELINE -->
+  <main class="pipeline">
+
+    <!-- ── STAGE 1 ── -->
+    <div class="stage" style="--accent: var(--s1)">
+      <div class="stage-node">01</div>
+      <div class="stage-header">
+        <span class="stage-num">STAGE 01</span>
+        <span class="stage-title">Data Sources</span>
+        <span class="stage-badge">3 raw inputs</span>
+      </div>
+      <div class="cards g3">
+        <div class="card">
+          <div class="card-title">Vestas Service DVD</div>
+          <div class="card-desc">HTML alarm code pages for VMP3500, VMP5000, and VMP5000.2. Each page contains structured alarm fields, descriptions, Vestas recommendations, and links to service documents.</div>
+          <div class="tags"><span class="tag">HTML</span><span class="tag">387 alarms</span><span class="tag">3 turbine types</span></div>
+        </div>
+        <div class="card">
+          <div class="card-title">MMS maintenance records</div>
+          <div class="card-desc">Technician visit logs from the maintenance management system. Contains error codes, visit dates, site names, and free-text field comments from on-site engineers.</div>
+          <div class="tags"><span class="tag">CSV</span><span class="tag">multi-site</span><span class="tag">free-text</span></div>
+        </div>
+        <div class="card">
+          <div class="card-title">Sites reference data</div>
+          <div class="card-desc">Wind farm names, turbine manufacturers, model types, controller info, and turbine counts per site. Stored in a fixed-width TXT format requiring custom parsing.</div>
+          <div class="tags"><span class="tag">TXT</span><span class="tag">fixed-width</span><span class="tag">controller info</span></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="connector"><div class="connector-inner"><div class="connector-dot"></div><div class="connector-dot"></div><div class="connector-dot"></div></div></div>
+
+    <!-- ── STAGE 2 ── -->
+    <div class="stage" style="--accent: var(--s2)">
+      <div class="stage-node">02</div>
+      <div class="stage-header">
+        <span class="stage-num">STAGE 02</span>
+        <span class="stage-title">Data Engineering</span>
+        <span class="stage-badge">4 scripts</span>
+      </div>
+      <div class="cards g4">
+        <div class="card">
+          <span class="card-file">scrape_manual_data.py</span>
+          <div class="card-title">HTML scraper</div>
+          <div class="card-desc">Crawls alarm detail pages, extracts 12 structured fields per alarm, resolves relative doc links. Excluded WP2000/WP3000 types not in scope.</div>
+          <div class="tags"><span class="tag">html.parser</span><span class="tag">custom</span></div>
+        </div>
+        <div class="card">
+          <span class="card-file">clean_data.py</span>
+          <div class="card-title">Data cleaner</div>
+          <div class="card-desc">Drops rows with empty comments. Filters maintenance-type events (e.g. "Inspection", "Replace") with no diagnostic signal using keyword patterns.</div>
+          <div class="tags"><span class="tag">pandas</span><span class="tag">regex filter</span></div>
+        </div>
+        <div class="card">
+          <span class="card-file">merge_data.py</span>
+          <div class="card-title">Data merger</div>
+          <div class="card-desc">Parses fixed-width Sites.txt using regex column detection, then left-joins with cleaned MMS data on windfarm name to attach controller info.</div>
+          <div class="tags"><span class="tag">pandas</span><span class="tag">left-join</span></div>
+        </div>
+        <div class="card">
+          <span class="card-file">3 scripts + Apps Script</span>
+          <div class="card-title">PDF + Drive mapping</div>
+          <div class="card-desc">Collects 387 referenced PDFs from the Vestas DVD, uploads to Google Drive, exports file list via Apps Script, builds filename → URL JSON map.</div>
+          <div class="tags"><span class="tag">Google Drive</span><span class="tag">JSON</span></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="connector"><div class="connector-inner"><div class="connector-dot"></div><div class="connector-dot"></div><div class="connector-dot"></div></div></div>
+
+    <!-- ── STAGE 3 ── -->
+    <div class="stage" style="--accent: var(--s3)">
+      <div class="stage-node">03</div>
+      <div class="stage-header">
+        <span class="stage-num">STAGE 03</span>
+        <span class="stage-title">Knowledge Base</span>
+        <span class="stage-badge">3 outputs</span>
+      </div>
+      <div class="cards g3">
+        <div class="card">
+          <span class="card-file">manual_data.csv</span>
+          <div class="card-title">Alarm manual data</div>
+          <div class="card-desc">Alarm codes, meanings, on-site suggestions, Vestas recommendations, fault status (auto/manual reset), and PDF document links — per turbine type.</div>
+          <div class="tags"><span class="tag">387 records</span><span class="tag">12 fields</span><span class="tag">structured</span></div>
+        </div>
+        <div class="card">
+          <span class="card-file">final_merged_data.csv</span>
+          <div class="card-title">Merged site + history</div>
+          <div class="card-desc">Unified record combining windfarm name, turbine ID, turbine type, controller, error code, error name, visit date, and technician comment.</div>
+          <div class="tags"><span class="tag">multi-join</span><span class="tag">8 columns</span></div>
+        </div>
+        <div class="card">
+          <span class="card-file">document_links.json</span>
+          <div class="card-title">Document link map</div>
+          <div class="card-desc">Filename → Google Drive URL mapping for all Vestas service PDFs referenced in alarm data. Enables clickable source links in the chat interface.</div>
+          <div class="tags"><span class="tag">JSON</span><span class="tag">387 entries</span><span class="tag">live links</span></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="connector"><div class="connector-inner"><div class="connector-dot"></div><div class="connector-dot"></div><div class="connector-dot"></div></div></div>
+
+    <!-- ── STAGE 4 ── -->
+    <div class="stage" style="--accent: var(--s4)">
+      <div class="stage-node">04</div>
+      <div class="stage-header">
+        <span class="stage-num">STAGE 04</span>
+        <span class="stage-title">Retrieval Engine</span>
+        <span class="stage-badge">no vector DB — deterministic CSV lookup</span>
+      </div>
+      <div class="cards g3">
+        <div class="card">
+          <div class="card-title">Entity extraction</div>
+          <div class="card-desc">Regex strips model strings (e.g. VMP5000) before extracting numeric alarm codes. Exact and prefix matching for site names. Skip-word list prevents turbine type false positives from generic words.</div>
+          <div class="tags"><span class="tag">regex</span><span class="tag">no NLP</span><span class="tag">skip-words</span></div>
+        </div>
+        <div class="card">
+          <div class="card-title">3-level fallback search</div>
+          <div class="card-desc">Tries exact site + turbine match → drops turbine type → drops site → drops both. Each fallback level injects a CONFIDENCE NOTE into the LLM context so the model calibrates its answer accordingly.</div>
+          <div class="tags"><span class="tag">deterministic</span><span class="tag">transparent</span><span class="tag">auditable</span></div>
+        </div>
+        <div class="card">
+          <div class="card-title">Keyword comment search</div>
+          <div class="card-desc">Stop-word filtered keyword matching across technician comments. Activated when structured lookup yields no results. Returns up to 20 most relevant records ranked by keyword hit.</div>
+          <div class="tags"><span class="tag">keyword</span><span class="tag">fallback</span><span class="tag">20 records</span></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="connector"><div class="connector-inner"><div class="connector-dot"></div><div class="connector-dot"></div><div class="connector-dot"></div></div></div>
+
+    <!-- ── STAGE 5 ── -->
+    <div class="stage" style="--accent: var(--s5)">
+      <div class="stage-node">05</div>
+      <div class="stage-header">
+        <span class="stage-num">STAGE 05</span>
+        <span class="stage-title">LLM Layer</span>
+        <span class="stage-badge">GPT-4.1 · temp 0.3 · 1024 tokens</span>
+      </div>
+      <div class="cards g3">
+        <div class="card">
+          <div class="card-title">Model: GPT-4.1</div>
+          <div class="card-desc">Temperature 0.3 and max 1,024 tokens with streaming enabled. Low temperature chosen to minimise hallucination in a safety-critical field operations context where incorrect guidance has real consequences.</div>
+          <div class="tags"><span class="tag">OpenAI</span><span class="tag">streaming</span><span class="tag">temp 0.3</span></div>
+        </div>
+        <div class="card">
+          <div class="card-title">System prompt design</div>
+          <div class="card-desc">8 strict rules: data-only answers with no invented steps, (Source: Name) citation format, no raw CSV filenames exposed, Vestas PDF links always included, off-topic rejection, and mandatory follow-up suggestions phrased as technician queries.</div>
+          <div class="tags"><span class="tag">8 rules</span><span class="tag">grounded</span><span class="tag">safe</span></div>
+        </div>
+        <div class="card">
+          <div class="card-title">Response structure</div>
+          <div class="card-desc">Streaming answer → (Source: Manual / Technician Comments / Sites) citation tags → clickable Vestas PDF reference links → 3 contextual follow-up questions, each phrased in the voice of the technician asking.</div>
+          <div class="tags"><span class="tag">cited</span><span class="tag">streamed</span><span class="tag">follow-ups</span></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="connector"><div class="connector-inner"><div class="connector-dot"></div><div class="connector-dot"></div><div class="connector-dot"></div></div></div>
+
+    <!-- ── STAGE 6 ── -->
+    <div class="stage" style="--accent: var(--s6)">
+      <div class="stage-node">06</div>
+      <div class="stage-header">
+        <span class="stage-num">STAGE 06</span>
+        <span class="stage-title">Interface &amp; Evaluation</span>
+        <span class="stage-badge">deployed</span>
+      </div>
+      <div class="cards g2">
+        <div class="card">
+          <div class="card-title">Production interface</div>
+          <div class="card-desc">Next.js 16 App Router deployed on Vercel. Streaming responses via the Vercel AI SDK, session persistence with 60-second timeout, mobile-first responsive layout, source popup links that open raw records, and Galetech brand colours and logo. Gradio used in parallel for rapid iteration and stakeholder demos.</div>
+          <div class="tags"><span class="tag">Next.js 16</span><span class="tag">TypeScript</span><span class="tag">Tailwind</span><span class="tag">Vercel</span><span class="tag">Gradio</span><span class="tag">ngrok</span></div>
+        </div>
+        <div class="card">
+          <div class="card-title">Automated test suite</div>
+          <div class="card-desc">25 multi-turn conversations across two test scripts covering typos, lazy shorthand, off-topic queries, multi-alarm questions, non-existent alarms, all-caps angry technician input, and cross-site edge cases. Each response automatically checked for: source citation present, follow-up suggestions included, PDF doc links attached, no raw CSV filenames leaked to the user.</div>
+          <div class="tags"><span class="tag">25 conversations</span><span class="tag">5 quality checks</span><span class="tag">test_quick.py</span><span class="tag">test_mini_15.py</span></div>
+        </div>
+      </div>
+    </div>
+
+  </main>
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="footer-left">
+      Built by <strong>Ciarán</strong> · Wind turbine fault diagnosis AI · 2024<br>
+      <span style="color: var(--t3); font-size: 11px;">Grounded RAG — no hallucination, every answer traced to a source</span>
+    </div>
+    <div class="footer-stack">
+      <span class="footer-pill">Python</span>
+      <span class="footer-pill">GPT-4.1</span>
+      <span class="footer-pill">Next.js 16</span>
+      <span class="footer-pill">Vercel AI SDK</span>
+      <span class="footer-pill">TypeScript</span>
+      <span class="footer-pill">Tailwind CSS</span>
+      <span class="footer-pill">OpenAI Streaming</span>
+      <span class="footer-pill">Google Drive API</span>
+      <span class="footer-pill">Gradio</span>
+      <span class="footer-pill">pandas</span>
+    </div>
+  </footer>
+
+  <script>
+    const stages = document.querySelectorAll('.stage');
+    const io = new IntersectionObserver((entries) => {
+      entries.forEach((entry, i) => {
+        if (entry.isIntersecting) {
+          entry.target.style.transitionDelay = '0ms';
+          entry.target.classList.add('visible');
+          io.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.1 });
+
+    stages.forEach((s, i) => {
+      s.style.transitionDelay = `${i * 60}ms`;
+      io.observe(s);
+    });
+
+    // Trigger first two immediately on load
+    setTimeout(() => {
+      stages.forEach((s, i) => {
+        if (i < 2) s.classList.add('visible');
+      });
+    }, 100);
+  </script>
+
+</body>
+</html>
