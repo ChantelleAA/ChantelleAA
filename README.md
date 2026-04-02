@@ -41,6 +41,19 @@ Other research projects I've worked on which are not directly related to my PhD 
 
 ## Featured Projects  
 
+### 🌬️ Galetech RAG Chatbot – Wind Turbine Fault Diagnosis  
+<img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/galetech-rag.gif" align="center" width="80%" alt="Galetech RAG Chatbot" />
+
+A **retrieval-augmented generation (RAG) chatbot** for wind turbine technicians at Galetech, enabling plain-English queries over alarm codes, site records, and maintenance history — with every answer grounded in real operational data.  
+- Entity extraction pipeline pulls alarm codes, site names, and turbine types from natural language queries  
+- Cascading CSV search across Sites, fault manuals, and MMS maintenance records with fallback broadening  
+- Streaming GPT-4.1 responses with clickable source popups so technicians can inspect the raw records  
+- Suggested follow-up questions and session persistence for continuous troubleshooting workflows  
+- Deployed on Vercel with Galetech branding and mobile-first responsive design  
+ 
+**Stack:** Python, Next.js 16, TypeScript, GPT-4.1, Vercel AI SDK, Tailwind CSS, csv-parse 
+
+
 ### 🔋 RTE Energy Research – Pollution & Climate Dashboard
 <img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/air-quality-app.gif" align="center" width="80%" alt="RTE Demo" />
 
