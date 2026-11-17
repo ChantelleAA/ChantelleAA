@@ -1,4 +1,3 @@
-      
 <img width="25%" align="right" alt="Chantelle working"                 
 src="https://github.com/ChantelleAA/ChantelleAA/blob/main/94528-programmer.gif" />
           
@@ -11,52 +10,54 @@ I've developed AI solutions across **NLP, computer vision, geospatial analysis, 
 
 I also teach MSc and professional students in Python, R, and Machine Learning, and mentor aspiring data scientists through long-term learning programs.                  
                                                                      
-ð¬ **Find me online**:
+📬 **Find me online**:
   <a href="https://linkedin.com/in/chantelleaa" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
   </a>
-  <a href="chantelatta@gmail.com">
+  <a href="mailto:chantelatta@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
   </a>
   <a href="https://chantelleaa.github.io" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Blog-000000?logo=github&logoColor=white">
+  </a>
+
 ---
                                                            
-# ð¬ Current Research â Climate & Geospatial AI  
+# 🔬 Current Research — Climate & Geospatial AI  
 
 As a **PhD Researcher in Decarb-AI at University College Dublin**, I focus on applying AI to climate, energy, and environmental systems. My work explores:  
 
-- â¡ **Wind Turbine Design by predicting extreme wind events**
+- ⚡ **Wind Turbine Design by predicting extreme wind events**
 
 Other research projects I've worked on which are not directly related to my PhD include:  
 
-- ð **Remote sensing & geospatial AI** (Sentinel, Copernicus, OpenEarthMap)  
-- ð¥ **Knowledge Distillation for improved biodiversity segmentation** (teacherâstudent architectures for segmentation with UNetFormer, FT-UNetFormer & DCSwin)  
-- ð« **Air-quality analysis & pollution mapping** using multi-city datasets obtained from ECMWF and Copernicus 
-- ð **OCR & Document AI** â Researching and benchmarking optical character recognition systems for low-resource languages and document processing  
-- ðº **Geospatial demand modeling & spatial market intelligence** â demand indexing, expansion targeting, customer density analysis, and region-level opportunity scoring
-- ð **Graph-based analytics & relationship modeling** â product affinity analysis, merchant clustering, bundle recommendation logic, and network-based insights 
+- 🌍 **Remote sensing & geospatial AI** (Sentinel, Copernicus, OpenEarthMap)  
+- 🔥 **Knowledge Distillation for improved biodiversity segmentation** (teacher–student architectures for segmentation with UNetFormer, FT-UNetFormer & DCSwin)  
+- 🌫️ **Air-quality analysis & pollution mapping** using multi-city datasets obtained from ECMWF and Copernicus 
+- 📄 **OCR & Document AI** — Researching and benchmarking optical character recognition systems for low-resource languages and document processing  
+- 🗺️ **Geospatial demand modeling & spatial market intelligence** — demand indexing, expansion targeting, customer density analysis, and region-level opportunity scoring
+- 🕸️ **Graph-based analytics & relationship modeling** — product affinity analysis, merchant clustering, bundle recommendation logic, and network-based insights 
 
 ---
 
 ## Featured Projects  
 
-### ð¬ï¸ Galetech RAG Chatbot â Wind Turbine Fault Diagnosis  
+### 🌬️ Galetech RAG Chatbot — Wind Turbine Fault Diagnosis  
 <img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/galetech-rag.gif" align="center" width="80%" alt="Galetech RAG Chatbot" />
 
-A **retrieval-augmented generation (RAG) chatbot** for wind turbine technicians at Galetech, enabling plain-English queries over alarm codes, site records, and maintenance history â with every answer grounded in real operational data.  
+A **retrieval-augmented generation (RAG) chatbot** for wind turbine technicians at Galetech, enabling plain-English queries over alarm codes, site records, and maintenance history — with every answer grounded in real operational data.  
 - Entity extraction pipeline pulls alarm codes, site names, and turbine types from natural language queries  
 - Cascading CSV search across Sites, fault manuals, and MMS maintenance records with fallback broadening  
 - Streaming GPT-4.1 responses with clickable source popups so technicians can inspect the raw records  
 - Suggested follow-up questions and session persistence for continuous troubleshooting workflows  
 - Deployed on Vercel with Galetech branding and mobile-first responsive design  
 
-[ð GitHub Repo](https://github.com/ChantelleAA/galetech-rag) â¢ [How it works](https://galetech-rag.vercel.app/flow_diagram.html) â¢ 
-[Architecture & Pipeline Breakdown](https://github.com/ChantelleAA/ChantelleAA/blob/main/galetech_pipeline.html)  
+[📂 GitHub Repo](https://github.com/ChantelleAA/galetech-rag) • [🔎 How it works](https://galetech-rag.vercel.app/flow_diagram.html) • 
+[🏗️ Architecture & Pipeline Breakdown](https://github.com/ChantelleAA/ChantelleAA/blob/main/galetech_pipeline.html)  
 **Stack:** Python, Next.js 16, TypeScript, GPT-4.1, Vercel AI SDK, Tailwind CSS, csv-parse 
 
 
-### ð RTE Energy Research â Pollution & Climate Dashboard
+### 🌍 RTE Energy Research — Pollution & Climate Dashboard
 <img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/air-quality-app.gif" align="center" width="80%" alt="RTE Demo" />
 
 Developed multi-city pollution dashboards as part of the a research done for RTE Investigates story on the cost of renewable energy:  
@@ -65,12 +66,12 @@ Developed multi-city pollution dashboards as part of the a research done for RTE
 - Trend analysis, geo-scatter maps, and city comparison tools  
 - Used for internal Decarb-AI research insights  
 
-[ð GitHub Repo 1 (Analysis)](https://github.com/ChantelleAA/urumqi_analysis) â¢ [ð GitHub Repo 2 (Dashboard)](https://github.com/ChantelleAA/pollution_viz)  
+[📂 GitHub Repo 1 (Analysis)](https://github.com/ChantelleAA/urumqi_analysis) • [📂 GitHub Repo 2 (Dashboard)](https://github.com/ChantelleAA/pollution_viz)  
 **Stack:** Python, Streamlit, GeoPandas, Plotly, Pandas  
 
 ---
 
-### ð§ð¾ââï¸ Quantathon Judging App  
+### 🧑🏾‍⚖️ Quantathon Judging App  
 <img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/judging_demo.gif" align="center" width="80%" alt="Quantathon Judging App demo" />
 
 A Django-based hackathon judging platform used in the **AIMS Quantathon 2024** with 50+ participants.  
@@ -79,25 +80,25 @@ A Django-based hackathon judging platform used in the **AIMS Quantathon 2024** w
 - One-time secure voting links  
 - Admin dashboard for managing live events    
 
-[ð GitHub Repo](https://github.com/ChantelleAA/judging_criteria) â¢ [ð° Press Coverage](https://www.linkedin.com/posts/african-institute-for-mathematical-sciences-ghana_aimsqtedu25-quantumforgood-quantathonwinners-activity-7353129321454100482-uauo)  
+[📂 GitHub Repo](https://github.com/ChantelleAA/judging_criteria) • [📰 Press Coverage](https://www.linkedin.com/posts/african-institute-for-mathematical-sciences-ghana_aimsqtedu25-quantumforgood-quantathonwinners-activity-7353129321454100482-uauo)  
 **Stack:** Django, PostgreSQL, HTMX, Railway  
 
 ---
 
-### ð TLR Helper â Teaching & Learning Resource Assistant  
+### 📚 TLR Helper — Teaching & Learning Resource Assistant  
 <img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/tlr_helper_1.gif" align="center" width="80%" alt="TLR Helper demo" />
 
 A web app supporting Ghana's **Standards-Based Curriculum**, for teachers used in TEDD Ghana teacher workshops and in Ghanaian Classrooms.    
-- Smart curriculum filtering (Class â Content Standard â Strand â Substrand â Indicator)  
+- Smart curriculum filtering (Class → Content Standard → Strand → Substrand → Indicator)  
 - Offline PDFs for schools with limited internet  
 - Built-in support for special needs and learning styles  
 
-[ð GitHub Repo](https://github.com/ChantelleAA/tlr_app)  
+[📂 GitHub Repo](https://github.com/ChantelleAA/tlr_app)  
 **Stack:** Django, HTMX, PostgreSQL, Bootstrap5  
 
 ---
 
-### ð§  Brain Tumor Segmentation (MICCAI)  
+### 🧠 Brain Tumor Segmentation (MICCAI)  
 <img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/bts_img.png" align="center" width="80%" alt="Brain tumor segmentation image" />
 
 Developed **ensemble models** to improve segmentation on Sub-Saharan MRI data.  
@@ -105,12 +106,12 @@ Developed **ensemble models** to improve segmentation on Sub-Saharan MRI data.
 - Proposed new methods (Staple Assembling & Mednex) for better outcomes  
 - Focused on real-world challenges in resource-limited healthcare  
 
-[ð Research Paper](https://arxiv.org/abs/2508.10905) â¢ [ð Certificate](https://drive.google.com/file/d/1Mhlt9DPoW-HOK1Ky5_jtWJBCNLwpWW6M/view?usp=sharing)  
+[📄 Research Paper](https://arxiv.org/abs/2508.10905) • [🎓 Certificate](https://drive.google.com/file/d/1Mhlt9DPoW-HOK1Ky5_jtWJBCNLwpWW6M/view?usp=sharing)  
 **Stack:** PyTorch, MONAI, NumPy, Python  
 
 ---
 
-### ð¤ NileEdge AI Assistant  
+### 🤖 NileEdge AI Assistant  
 <img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/nileedgechatbot.gif" align="center" width="80%" alt="NileEdge AI Chatbot demo" />
 
 A context-aware chatbot with **semantic FAQ matching + Whisper transcription**, built for NileEdge Innovations.  
@@ -118,12 +119,12 @@ A context-aware chatbot with **semantic FAQ matching + Whisper transcription**, 
 - Privacy-first: runs entirely locally  
 - Custom UI + automatic FAQ expansion  
    
-[ð GitHub Repo](https://github.com/ChantelleAA/response_aigent)  
+[📂 GitHub Repo](https://github.com/ChantelleAA/response_aigent)  
 **Stack:** Python, Flask, ChromaDB, Whisper  
 
 ---
 
-### ð® Oware Nam-nam Reinforcement Learning  
+### 🎮 Oware Nam-nam Reinforcement Learning  
 <img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/oware_demo1.gif" align="center" width="80%" alt="Oware RL demo" />
 
 Built a full Python environment for the traditional game **Oware** and trained multiple agents.  
@@ -131,27 +132,27 @@ Built a full Python environment for the traditional game **Oware** and trained m
 - Human-vs-agent and agent-vs-agent play modes  
 - Reward tracking and gameplay visualization  
 
-[ð GitHub Repo](https://github.com/ChantelleAA/Reinforcement_Learning_Oware) â¢ [ð Thesis Paper](https://lutpub.lut.fi/bitstream/handle/10024/167861/mastersthesis_Amoako-Atta_Chantelle.pdf?sequence=1&isAllowed=y)  
+[📂 GitHub Repo](https://github.com/ChantelleAA/Reinforcement_Learning_Oware) • [📘 Thesis Paper](https://lutpub.lut.fi/bitstream/handle/10024/167861/mastersthesis_Amoako-Atta_Chantelle.pdf?sequence=1&isAllowed=y)  
 **Stack:** Python, TensorFlow, Stable-Baselines  
 
 ---
 
-## ð AI Sandbox â GeoSeg Biodiversity Segmentation  
+## 🌿 AI Sandbox — GeoSeg Biodiversity Segmentation  
 <img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/biodiversity.gif" align="center" width="80%" alt="GeoSeg demo" />
 
 Led geospatial AI work for **ODOS Tech**, building a biodiversity segmentation pipeline using Sentinel/OpenEarthMap.  
-- Improved mIoU from **68â72% â 87â90%**  
-- Designed **Knowledge Distillation** teacherâstudent framework  
+- Improved mIoU from **68–72% → 87–90%**  
+- Designed **Knowledge Distillation** teacher–student framework  
 - Implemented full training, evaluation & post-processing pipeline  
 - Delivered reproducible results for land-cover classification  
 
-[ð GitHub Repo 1 (Analysis)](https://github.com/ChantelleAA/geoseg) â¢ [ð GitHub Repo 2 (Image Generation)](https://github.com/ChantelleAA/geseg_GAN)  
+[📂 GitHub Repo 1 (Analysis)](https://github.com/ChantelleAA/geoseg) • [📂 GitHub Repo 2 (Image Generation)](https://github.com/ChantelleAA/geseg_GAN)  
 **Stack:** PyTorch, UNetFormer, FT-UNetFormer, DCSwin, GeoPandas, Rasterio, GDAL
 
 ---
 
 
-### ð OCR Research & Evaluation  
+### 📄 OCR Research & Evaluation  
 Comprehensive research project evaluating state-of-the-art OCR tools for document processing.   
 - Benchmarking multiple OCR engines (Tesseract, EasyOCR, PaddleOCR, etc.)  
 - Performance metrics comparison across different document types  
@@ -162,7 +163,7 @@ Comprehensive research project evaluating state-of-the-art OCR tools for documen
 
 ---  
 
-### ð GeoAI Workshop â Satellite Data & Land Cover Analysis  
+### 🛰️ GeoAI Workshop — Satellite Data & Land Cover Analysis  
 <img src="https://github.com/ChantelleAA/ChantelleAA/blob/main/geoai workshop.gif" align="center" width="80%" alt="GEOAI Workshop" />
 
 Workshop materials and teaching resources for geospatial AI and environmental monitoring.  
@@ -171,46 +172,46 @@ Workshop materials and teaching resources for geospatial AI and environmental mo
 - Environmental data analysis with Python  
 - Jupyter notebooks for remote sensing applications  
 
-[ð GitHub Repo](https://github.com/ChantelleAA/gain_geoai_workshop)  
+[📂 GitHub Repo](https://github.com/ChantelleAA/gain_geoai_workshop)  
 **Stack:** Python, Jupyter Notebook, GeoPandas, Rasterio, Satellite Imagery, QGIS  
 
 ---
 
-## ð Recognition  
+## 🏆 Recognition  
 
-- ð **MICCAI Scholar (2023)** â Presented brain tumor segmentation at an international conference. [ð Certificate](https://drive.google.com/file/d/1Mhlt9DPoW-HOK1Ky5_jtWJBCNLwpWW6M/view?usp=sharing)  
-- ð° **AI Sandbox Participant - Biodiversity Segmentation** â GeoSeg biodiversity segmentation.  
-- ð **PhD Researcher â Decarb-AI (UCD)** â AI for climate & energy.  
-- ð **Hackathon Winner** â 1st place in an international hackathon (Boise State, MIT, Tanzania universities).  
-- ð¥ **Quantathon Mentor** â Guided team "Qualaria" to win + sustainability award. [ð° Coverage](https://www.linkedin.com/posts/african-institute-for-mathematical-sciences-ghana_aimsqtedu25-quantumforgood-quantathonwinners-activity-7353129321454100482-uauo)  
-- ð¢ **Lecturer â AIMS Ghana (2025)** â Delivered a two-week MSc NLP module, from preprocessing â chatbot architectures, using Hugging Face, spaCy, NLTK, and Gradio.  
-- ð **Senior Data Science Mentor â Thrive Africa (2025)** â Mentored learners in data science & ML, and co-led a workshop with University of Ghana societies. [ð° Workshop Link](https://www.linkedin.com/feed/update/urn:li:activity:7352575997126311936/)  
-- ð©ð¾âð« **Mentor â FemAfricMaths / Divas in AI (2025)** â Supporting young women in STEM across Africa.  
-- ð **Speaker â Ghana NLP Community (2025)** â Invited speaker at the monthly *Learn + Connect* session, sharing my journey in NLP/ML with the community.  
-- ð¤ **Member â Ghana NLP Community (2025âPresent)** â Part of Ghana's leading network for NLP developers, linguists, and researchers building tools for local languages. [ð GhanaNLP](https://ghananlp.org)  
-- âï¸ **Published Research** â [Brain Tumor Segmentation (arXiv)](https://arxiv.org/abs/2508.10905) â¢ [Reinforcement Learning Thesis](https://lutpub.lut.fi/bitstream/handle/10024/167861/mastersthesis_Amoako-Atta_Chantelle.pdf?sequence=1&isAllowed=y)  
-- ð **Educator** â Trained 200+ Undergraduate, MSc and professional students in Python Programming, ML & Data Science.  
-- ð¤ **Public Speaker** â Spoke at seminars on Teaching Practices, Generative AI and Breaking into AI from diverse educational backgrounds.
+- 🎓 **MICCAI Scholar (2023)** — Presented brain tumor segmentation at an international conference. [📜 Certificate](https://drive.google.com/file/d/1Mhlt9DPoW-HOK1Ky5_jtWJBCNLwpWW6M/view?usp=sharing)  
+- 🌿 **AI Sandbox Participant - Biodiversity Segmentation** — GeoSeg biodiversity segmentation.  
+- 🌬️ **PhD Researcher — Decarb-AI (UCD)** — AI for climate & energy.  
+- 🏅 **Hackathon Winner** — 1st place in an international hackathon (Boise State, MIT, Tanzania universities).  
+- 🥇 **Quantathon Mentor** — Guided team "Qualaria" to win + sustainability award. [📰 Coverage](https://www.linkedin.com/posts/african-institute-for-mathematical-sciences-ghana_aimsqtedu25-quantumforgood-quantathonwinners-activity-7353129321454100482-uauo)  
+- 🏫 **Lecturer — AIMS Ghana (2025)** — Delivered a two-week MSc NLP module, from preprocessing → chatbot architectures, using Hugging Face, spaCy, NLTK, and Gradio.  
+- 🤝 **Senior Data Science Mentor — Thrive Africa (2025)** — Mentored learners in data science & ML, and co-led a workshop with University of Ghana societies. [📰 Workshop Link](https://www.linkedin.com/feed/update/urn:li:activity:7352575997126311936/)  
+- 👩🏾‍🏫 **Mentor — FemAfricMaths / Divas in AI (2025)** — Supporting young women in STEM across Africa.  
+- 🎙️ **Speaker — Ghana NLP Community (2025)** — Invited speaker at the monthly *Learn + Connect* session, sharing my journey in NLP/ML with the community.  
+- 🌐 **Member — Ghana NLP Community (2025–Present)** — Part of Ghana's leading network for NLP developers, linguists, and researchers building tools for local languages. [🔗 GhanaNLP](https://ghananlp.org)  
+- ✍️ **Published Research** — [Brain Tumor Segmentation (arXiv)](https://arxiv.org/abs/2508.10905) • [Reinforcement Learning Thesis](https://lutpub.lut.fi/bitstream/handle/10024/167861/mastersthesis_Amoako-Atta_Chantelle.pdf?sequence=1&isAllowed=y)  
+- 📚 **Educator** — Trained 200+ Undergraduate, MSc and professional students in Python Programming, ML & Data Science.  
+- 🎤 **Public Speaker** — Spoke at seminars on Teaching Practices, Generative AI and Breaking into AI from diverse educational backgrounds.
 
 ---  
 
-## ð Teaching & Mentorship  
+## 🎓 Teaching & Mentorship  
 
-- ð Led a year-long **Coding Club at AIMS Ghana**, teaching MSc students Python & R â now building data science/ML projects independently.  
-- ð **Lecturer & Tutor (AIMS Ghana, 2025âPresent)** â Taught a two-week MSc **NLP module** covering preprocessing, sentiment analysis, chatbot design, and modern toolkits (Hugging Face, spaCy, NLTK, Gradio).  
-- ð Teach professional students at **Adaire Academy**, supporting their EPFL diploma in **Data Science & Machine Learning**.  
-- ð§ð¾ Taught Python & Intro to AI at the **AIMS Girls in Mathematical Sciences Program (GMSP)** residential workshop.  
-- ð **Senior Data Science Mentor (Thrive Africa, 2025âPresent)** â Supporting learners in the Campus & Graduate Data Science programs with mentorship in Python, TensorFlow, and ML best practices. [ð° Workshop Highlight](https://www.linkedin.com/feed/update/urn:li:activity:7352575997126311936/)  
-- ð©ð¾âð« **Mentor â Divas in AI / FemAfricMaths (2025âPresent)** â Mentoring young women in STEM, focusing on mathematics, data science, and AI.  
-- ð Mentor in a **34-week one-on-one AI course**, guiding learners from fundamentals to advanced applied ML.  
-- ð **GeoAI Workshop Instructor (GAIN, 2025)** â Designed and delivered hands-on workshop on geospatial AI using Python, covering satellite imagery processing, land cover classification, and environmental data analysis with GeoPandas, Rasterio, and remote sensing tools.  
+- 💻 Led a year-long **Coding Club at AIMS Ghana**, teaching MSc students Python & R — now building data science/ML projects independently.  
+- 🏫 **Lecturer & Tutor (AIMS Ghana, 2025–Present)** — Taught a two-week MSc **NLP module** covering preprocessing, sentiment analysis, chatbot design, and modern toolkits (Hugging Face, spaCy, NLTK, Gradio).  
+- 🎓 Teach professional students at **Adaire Academy**, supporting their EPFL diploma in **Data Science & Machine Learning**.  
+- 👧🏾 Taught Python & Intro to AI at the **AIMS Girls in Mathematical Sciences Program (GMSP)** residential workshop.  
+- 🤝 **Senior Data Science Mentor (Thrive Africa, 2025–Present)** — Supporting learners in the Campus & Graduate Data Science programs with mentorship in Python, TensorFlow, and ML best practices. [📰 Workshop Highlight](https://www.linkedin.com/feed/update/urn:li:activity:7352575997126311936/)  
+- 👩🏾‍🏫 **Mentor — Divas in AI / FemAfricMaths (2025–Present)** — Mentoring young women in STEM, focusing on mathematics, data science, and AI.  
+- 🧭 Mentor in a **34-week one-on-one AI course**, guiding learners from fundamentals to advanced applied ML.  
+- 🛰️ **GeoAI Workshop Instructor (GAIN, 2025)** — Designed and delivered hands-on workshop on geospatial AI using Python, covering satellite imagery processing, land cover classification, and environmental data analysis with GeoPandas, Rasterio, and remote sensing tools.  
 
 ---
 
-## âï¸ Recent Writings  
+## ✍️ Recent Writings  
 
-- [Intro to Python â Part 1: Temperature Converter](https://chantelleaa.github.io/archivers/introduction-to-python-in-6-lessons-part-1)  
-- [Intro to Python â Part 2: Simple Calculator](https://chantelleaa.github.io/archivers/introduction-to-python-in-6-lessons-part-2)  
+- [Intro to Python — Part 1: Temperature Converter](https://chantelleaa.github.io/archivers/introduction-to-python-in-6-lessons-part-1)  
+- [Intro to Python — Part 2: Simple Calculator](https://chantelleaa.github.io/archivers/introduction-to-python-in-6-lessons-part-2)  
 - [Gradio Part 1: Build ML Interfaces](https://chantelleaa.github.io/archivers/intro-to-gradio-part-1)  
 - [Gradio Part 2: Personality Prediction](https://chantelleaa.github.io/archivers/intro-to-gradio-part-2)  
 - [3 Ways I Scrape the Web](https://chantelleaa.github.io/archivers/intro-to-web-scraping)  
@@ -219,7 +220,7 @@ Workshop materials and teaching resources for geospatial AI and environmental mo
 
 ---
 
-## ð  Tech Stack  
+## 🛠️ Tech Stack  
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -289,7 +290,7 @@ Workshop materials and teaching resources for geospatial AI and environmental mo
 
 ---
 
-## ð GitHub Activity  
+## 📈 GitHub Activity  
 <table>
   <tr> 
     <td> 
